@@ -3,7 +3,7 @@ import threading
 import time
 import traceback
 
-sys.path.append(r'C:\Users\jeisonle\repository\DORA')
+sys.path.append('/dgl/codes/DORA/')
 
 from src.main.util import Logger
 
