@@ -1,0 +1,39 @@
+{
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:epsg::3047"
+    },
+    "type": "name"
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          389625.0,
+          6671380.0
+        ],
+        "type": "Point"
+      },
+      "id": "3",
+      "properties": {
+        "YKR_ID": 5980282
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          371625.0,
+          6670130.0
+        ],
+        "type": "Point"
+      },
+      "id": "4",
+      "properties": {
+        "YKR_ID": 5988305
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

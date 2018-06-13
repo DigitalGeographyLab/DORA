@@ -1,0 +1,776 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3067"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 51,
+        "x_euref": 386582.47288000002,
+        "y_euref": 6673089.9317124002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          386582.47287956282,
+          6673089.9317124188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 52,
+        "x_euref": 386486.65362499998,
+        "y_euref": 6674119.9887038004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          386486.65362454741,
+          6674119.9887038339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 53,
+        "x_euref": 386893.885458,
+        "y_euref": 6674119.9887038004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          386893.8854583631,
+          6674119.9887038339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 54,
+        "x_euref": 387037.61434099998,
+        "y_euref": 6673952.3050076002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          387037.6143408863,
+          6673952.3050075574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 55,
+        "x_euref": 385241.00330899999,
+        "y_euref": 6675485.4130878001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          385241.00330934685,
+          6675485.4130878039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 56,
+        "x_euref": 385528.46107399999,
+        "y_euref": 6675533.3227153001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          385528.46107439318,
+          6675533.3227153113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 57,
+        "x_euref": 386007.55734900001,
+        "y_euref": 6675197.9553228002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          386007.55734947015,
+          6675197.9553227574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 58,
+        "x_euref": 387708.34912600002,
+        "y_euref": 6674287.6724001002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          387708.34912599437,
+          6674287.6724001113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 59,
+        "x_euref": 387852.07800899999,
+        "y_euref": 6674048.1242626002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          387852.07800851751,
+          6674048.1242625723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 60,
+        "x_euref": 388019.76170500001,
+        "y_euref": 6673760.6664974997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          388019.7617047946,
+          6673760.6664975258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 61,
+        "x_euref": 389504.960158,
+        "y_euref": 6673784.6213113004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          389504.96015753405,
+          6673784.621311279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 62,
+        "x_euref": 389528.91497099999,
+        "y_euref": 6674143.9435176002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          389528.91497128771,
+          6674143.9435175871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 63,
+        "x_euref": 389648.68904000003,
+        "y_euref": 6674311.6272139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          389648.68904005719,
+          6674311.6272138655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 64,
+        "x_euref": 390894.339355,
+        "y_euref": 6673808.5761249997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          390894.33935525815,
+          6673808.5761250323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 65,
+        "x_euref": 390846.42972800002,
+        "y_euref": 6674527.2205376001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          390846.42972775019,
+          6674527.2205376485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 66,
+        "x_euref": 390798.5201,
+        "y_euref": 6674766.7686751997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          390798.52010024246,
+          6674766.7686751885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 67,
+        "x_euref": 390750.61047299998,
+        "y_euref": 6674958.4071851997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          390750.61047273496,
+          6674958.4071852174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 68,
+        "x_euref": 392307.67336700001,
+        "y_euref": 6675293.7745778002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          392307.67336673575,
+          6675293.7745777722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 69,
+        "x_euref": 391660.89339500002,
+        "y_euref": 6675581.2323428001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391660.89339538146,
+          6675581.2323428188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 70,
+        "x_euref": 391589.02895399998,
+        "y_euref": 6675940.5545490999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391589.02895411983,
+          6675940.5545491269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 71,
+        "x_euref": 391325.52600299998,
+        "y_euref": 6676156.1478728997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391325.52600282745,
+          6676156.1478729099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 72,
+        "x_euref": 393577.27849599998,
+        "y_euref": 6676060.3286178997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393577.27849569049,
+          6676060.328617895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 73,
+        "x_euref": 393457.50442700001,
+        "y_euref": 6676371.7411967004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393457.5044269209,
+          6676371.7411966957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 74,
+        "x_euref": 393265.86591699999,
+        "y_euref": 6676563.3797067003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393265.86591689033,
+          6676563.3797067273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 75,
+        "x_euref": 394583.38067300001,
+        "y_euref": 6676515.4700792003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          394583.38067335245,
+          6676515.470079218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 76,
+        "x_euref": 394391.74216299999,
+        "y_euref": 6676874.7922855001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          394391.74216332159,
+          6676874.7922855262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 77,
+        "x_euref": 394439.65179099998,
+        "y_euref": 6677353.8885605996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          394439.65179082955,
+          6677353.8885606043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 78,
+        "x_euref": 395685.30210600002,
+        "y_euref": 6675509.3679016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395685.30210602999,
+          6675509.3679015571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 79,
+        "x_euref": 395805.07617499999,
+        "y_euref": 6675820.7804803997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395805.07617479935,
+          6675820.780480356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 80,
+        "x_euref": 395948.80505700002,
+        "y_euref": 6676180.1026867004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395948.80505732243,
+          6676180.1026866641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 81,
+        "x_euref": 396978.86204899999,
+        "y_euref": 6675557.2775291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          396978.86204873875,
+          6675557.2775290646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 82,
+        "x_euref": 397074.68130400003,
+        "y_euref": 6676012.4189903997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          397074.6813037541,
+          6676012.4189903885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 83,
+        "x_euref": 396835.13316600001,
+        "y_euref": 6676419.6508242004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          396835.13316621544,
+          6676419.6508242032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 84,
+        "x_euref": 393002.36296599999,
+        "y_euref": 6677785.0752082001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393002.36296559765,
+          6677785.0752081741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 85,
+        "x_euref": 393433.54961300001,
+        "y_euref": 6677952.7589044003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393433.54961316712,
+          6677952.7589044478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 86,
+        "x_euref": 393744.96219200001,
+        "y_euref": 6678096.4877869999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393744.96219196747,
+          6678096.4877869738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 87,
+        "x_euref": 394032.41995700001,
+        "y_euref": 6678767.2225721003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          394032.41995701368,
+          6678767.2225720808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 88,
+        "x_euref": 393840.78144699999,
+        "y_euref": 6679294.2284746999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393840.78144698287,
+          6679294.2284746664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 89,
+        "x_euref": 393673.09775100002,
+        "y_euref": 6679605.6410534997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393673.09775070578,
+          6679605.6410534671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 90,
+        "x_euref": 395493.663596,
+        "y_euref": 6679270.2736609001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395493.66359599913,
+          6679270.2736609131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 91,
+        "x_euref": 395349.93471300002,
+        "y_euref": 6679557.7314259997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395349.93471347599,
+          6679557.7314259596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 92,
+        "x_euref": 395062.47694800003,
+        "y_euref": 6679773.3247496998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          395062.47694842983,
+          6679773.3247497436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 93,
+        "x_euref": 393050.27259299997,
+        "y_euref": 6682791.6312827002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          393050.27259310539,
+          6682791.631282731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 94,
+        "x_euref": 389744.50829500001,
+        "y_euref": 6681953.2128013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          389744.50829507253,
+          6681953.2128013447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 95,
+        "x_euref": 389816.37273599999,
+        "y_euref": 6684492.4230592996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          389816.37273633416,
+          6684492.423059254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 96,
+        "x_euref": 390678.74603099999,
+        "y_euref": 6685977.6215120004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          390678.74603147322,
+          6685977.6215119939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 97,
+        "x_euref": 383468.34709200001,
+        "y_euref": 6677186.2048642999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          383468.34709156107,
+          6677186.2048643259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 98,
+        "x_euref": 385552.41588799999,
+        "y_euref": 6680755.4721136997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          385552.41588814702,
+          6680755.4721136522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 99,
+        "x_euref": 385073.31961300003,
+        "y_euref": 6685067.3385893004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          385073.31961306965,
+          6685067.3385893479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 100,
+        "x_euref": 382821.56712000002,
+        "y_euref": 6684204.9652942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          382821.56712020666,
+          6684204.9652942065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YKR_ID": 101,
+        "x_euref": 380737.49832399999,
+        "y_euref": 6684420.5586179998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          380737.49832362082,
+          6684420.5586179933
+        ]
+      }
+    }
+  ]
+}

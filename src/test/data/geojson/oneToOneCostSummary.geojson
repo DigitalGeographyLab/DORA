@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 59227,
+        "end_vertex_id": 2692,
+        "total_cost": 19156.95102864
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2800081.709926528,
+            8444926.252604954
+          ]
+        ]
+      }
+    }
+  ],
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    },
+    "type": "name"
+  }
+}

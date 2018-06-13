@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 33861,
+        "end_vertex_id": 99080,
+        "total_cost": 12118.4120596092
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2786743.709731516,
+            8441383.40778924
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 44823,
+        "end_vertex_id": 99080,
+        "total_cost": 18194.1120310407
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2792694.6384385205,
+            8451448.22056747
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 45174,
+        "end_vertex_id": 99080,
+        "total_cost": 21338.554621882
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2790440.0260217334,
+            8459677.030663345
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 46020,
+        "end_vertex_id": 99080,
+        "total_cost": 13733.8586408651
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2789605.6240682164,
+            8444485.597353565
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 49020,
+        "end_vertex_id": 99080,
+        "total_cost": 20475.0448379491
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2800081.709926528,
+            8444926.252604954
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 78317,
+        "end_vertex_id": 99080,
+        "total_cost": 11814.3459827007
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2761512.977539195,
+            8448006.332579654
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 78618,
+        "end_vertex_id": 99080,
+        "total_cost": 13566.1265306111
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2749060.646623344,
+            8433076.850560585
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 106993,
+        "end_vertex_id": 99080,
+        "total_cost": 9752.76004893452
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771427.733474405,
+            8447620.364473343
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 110372,
+        "end_vertex_id": 99080,
+        "total_cost": 2868.25540258226
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773598.093803999,
+            8435839.093853934
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 127209,
+        "end_vertex_id": 99080,
+        "total_cost": 19027.9450283974
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2769725.218099811,
+            8461614.38453213
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "start_vertex_id": 140220,
+        "end_vertex_id": 99080,
+        "total_cost": 4656.7223447455
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775438.4754216815,
+            8438120.535042128
+          ],
+          [
+            2769601.3998177503,
+            8434090.860341422
+          ]
+        ]
+      }
+    }
+  ],
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    },
+    "type": "name"
+  }
+}

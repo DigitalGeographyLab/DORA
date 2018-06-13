@@ -1,0 +1,858 @@
+{
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    },
+    "type": "name"
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2749060.646623344,
+            8433076.850560552
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "6",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 13174.8239857133,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 58.262791807757,
+        "endPoint_EuclideanDistanceWalkingTime": 0.8323255972536714,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 371994,
+        "endPoint_Y": 6670251,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "16",
+        "endPoint_nearestVertexCoordinates": [
+          2749060.64662334,
+          8433076.85056055
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2748964.940329783,
+          8433009.858588137
+        ],
+        "endPoint_vertex_id": 58456,
+        "endPoint_walking_distance": null,
+        "endVertexId": 58456,
+        "nearestEndCoordinates": [
+          2749060.64662334,
+          8433076.85056055
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2748964.940329783,
+          8433009.858588137
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2790440.0260217334,
+            8459677.030663345
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "1",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 19594.8158631029,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 43.50118657034155,
+        "endPoint_EuclideanDistanceWalkingTime": 0.6214455224334507,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 393050,
+        "endPoint_Y": 6682798,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "20",
+        "endPoint_nearestVertexCoordinates": [
+          2790440.02602173,
+          8459677.03066334
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2790417.125546917,
+          8459592.448746705
+        ],
+        "endPoint_vertex_id": 11117,
+        "endPoint_walking_distance": null,
+        "endVertexId": 11117,
+        "nearestEndCoordinates": [
+          2790440.02602173,
+          8459677.03066334
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2790417.125546917,
+          8459592.448746705
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2789605.6240682164,
+            8444485.597353565
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "3",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 12814.8512312498,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 106.96198040768382,
+        "endPoint_EuclideanDistanceWalkingTime": 1.5280282915383403,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 392320,
+        "endPoint_Y": 6675303,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "24",
+        "endPoint_nearestVertexCoordinates": [
+          2789605.62406822,
+          8444485.59735356
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2789391.632571995,
+          8444468.3193114
+        ],
+        "endPoint_vertex_id": 21076,
+        "endPoint_walking_distance": null,
+        "endVertexId": 21076,
+        "nearestEndCoordinates": [
+          2789605.62406822,
+          8444485.59735356
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2789391.632571995,
+          8444468.3193114
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2792694.638438539,
+            8451448.22056747
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 17403.2376696349,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 56.58576044236227,
+        "endPoint_EuclideanDistanceWalkingTime": 0.808368006319461,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 394023,
+        "endPoint_Y": 6678761,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "25",
+        "endPoint_nearestVertexCoordinates": [
+          2792694.63843854,
+          8451448.22056747
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2792609.5322769675,
+          8451523.716084275
+        ],
+        "endPoint_vertex_id": 12466,
+        "endPoint_walking_distance": null,
+        "endVertexId": 12466,
+        "nearestEndCoordinates": [
+          2792694.63843854,
+          8451448.22056747
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2792609.5322769675,
+          8451523.716084275
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2773598.093803999,
+            8435839.093853934
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "5",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 2798.40527566702,
+        "endPoint_AVGWalkingDistanceWalkingTime": 2.5714285714285716,
+        "endPoint_EuclideanDistance": 59.147036952301065,
+        "endPoint_EuclideanDistanceWalkingTime": 0.8449576707471581,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 384262,
+        "endPoint_Y": 6671251,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "26",
+        "endPoint_nearestVertexCoordinates": [
+          2773598.093804,
+          8435839.09385393
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2773479.5601236573,
+          8435835.919735571
+        ],
+        "endPoint_vertex_id": 24876,
+        "endPoint_walking_distance": 180.0,
+        "endVertexId": 24876,
+        "nearestEndCoordinates": [
+          2773598.093804,
+          8435839.09385393
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2773479.5601236573,
+          8435835.919735571
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2775438.4754216815,
+            8438120.535042128
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "10",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 4265.94497109043,
+        "endPoint_AVGWalkingDistanceWalkingTime": 2.5714285714285716,
+        "endPoint_EuclideanDistance": 28.017996541898277,
+        "endPoint_EuclideanDistanceWalkingTime": 0.40025709345568966,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 385274,
+        "endPoint_Y": 6672329,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "27",
+        "endPoint_nearestVertexCoordinates": [
+          2775438.47542168,
+          8438120.53504213
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2775440.3837325294,
+          8438064.287070163
+        ],
+        "endPoint_vertex_id": 127645,
+        "endPoint_walking_distance": 180.0,
+        "endVertexId": 127645,
+        "nearestEndCoordinates": [
+          2775438.47542168,
+          8438120.53504213
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2775440.3837325294,
+          8438064.287070163
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2761512.977539195,
+            8448006.332579654
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "8",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 11056.1765580283,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 52.27789525899286,
+        "endPoint_EuclideanDistanceWalkingTime": 0.7468270751284694,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 378483,
+        "endPoint_Y": 6677546,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "28",
+        "endPoint_nearestVertexCoordinates": [
+          2761512.9775392,
+          8448006.33257965
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2761478.4050078,
+          8448105.620278992
+        ],
+        "endPoint_vertex_id": 66956,
+        "endPoint_walking_distance": null,
+        "endVertexId": 66956,
+        "nearestEndCoordinates": [
+          2761512.9775392,
+          8448006.33257965
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2761478.4050078,
+          8448105.620278992
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2771427.733474405,
+            8447620.364473343
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "7",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 9367.57825846411,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 58.34361932241894,
+        "endPoint_EuclideanDistanceWalkingTime": 0.8334802760345562,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 383465,
+        "endPoint_Y": 6677186,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "31",
+        "endPoint_nearestVertexCoordinates": [
+          2771427.7334744,
+          8447620.364473341
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2771504.1973838215,
+          8447709.271244923
+        ],
+        "endPoint_vertex_id": 60816,
+        "endPoint_walking_distance": null,
+        "endVertexId": 60816,
+        "nearestEndCoordinates": [
+          2771427.7334744,
+          8447620.364473341
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2771504.1973838215,
+          8447709.271244923
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2769725.218099811,
+            8461614.38453213
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "9",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 17151.5736673221,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 44.16615965628731,
+        "endPoint_EuclideanDistanceWalkingTime": 0.6309451379469616,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 382819,
+        "endPoint_Y": 6684157,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "35",
+        "endPoint_nearestVertexCoordinates": [
+          2769725.21809981,
+          8461614.38453213
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2769756.3547563823,
+          8461697.742219279
+        ],
+        "endPoint_vertex_id": 105060,
+        "endPoint_walking_distance": null,
+        "endVertexId": 105060,
+        "nearestEndCoordinates": [
+          2769725.21809981,
+          8461614.38453213
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2769756.3547563823,
+          8461697.742219279
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2786743.709731516,
+            8441383.40778924
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "4",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 11214.6193952081,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 30.59419476446446,
+        "endPoint_EuclideanDistanceWalkingTime": 0.43705992520663517,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 390927,
+        "endPoint_Y": 6673797,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "37",
+        "endPoint_nearestVertexCoordinates": [
+          2786743.70973152,
+          8441383.40778924
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2786687.559154002,
+          8441358.574181823
+        ],
+        "endPoint_vertex_id": 22034,
+        "endPoint_walking_distance": null,
+        "endVertexId": 22034,
+        "nearestEndCoordinates": [
+          2786743.70973152,
+          8441383.40778924
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2786687.559154002,
+          8441358.574181823
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2800081.709926528,
+            8444926.252604954
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "0",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 19156.95102864,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 27.699190884900116,
+        "endPoint_EuclideanDistanceWalkingTime": 0.39570272692714453,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 397635,
+        "endPoint_Y": 6675402,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": "38",
+        "endPoint_nearestVertexCoordinates": [
+          2800081.7099265303,
+          8444926.25260495
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2800052.5206671655,
+          8444973.65214464
+        ],
+        "endPoint_vertex_id": 2692,
+        "endPoint_walking_distance": null,
+        "endVertexId": 2692,
+        "nearestEndCoordinates": [
+          2800081.7099265303,
+          8444926.25260495
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2800052.5206671655,
+          8444973.65214464
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

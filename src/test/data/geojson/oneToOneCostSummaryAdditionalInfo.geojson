@@ -1,0 +1,88 @@
+{
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    },
+    "type": "name"
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            2769601.340999886,
+            8434090.847715724
+          ],
+          [
+            2800081.709926528,
+            8444926.252604954
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "0",
+      "properties": {
+        "costAttribute": "distance",
+        "distance": 19156.95102864,
+        "endPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "endPoint_EuclideanDistance": 27.699190884900116,
+        "endPoint_EuclideanDistanceWalkingTime": 0.39570272692714453,
+        "endPoint_ParkingTime": 0.42,
+        "endPoint_X": 397635,
+        "endPoint_Y": 6675402,
+        "endPoint_coordinatesCRS": "EPSG:3857",
+        "endPoint_id": 38,
+        "endPoint_nearestVertexCoordinates": [
+          2800081.7099265303,
+          8444926.25260495
+        ],
+        "endPoint_parking_time": 0.42,
+        "endPoint_selectedPointCoordinates": [
+          2800052.5206671655,
+          8444973.65214464
+        ],
+        "endPoint_vertex_id": 2692,
+        "endPoint_walking_distance": null,
+        "endVertexId": 2692,
+        "nearestEndCoordinates": [
+          2800081.7099265303,
+          8444926.25260495
+        ],
+        "nearestStartCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "selectedEndCoordinates": [
+          2800052.5206671655,
+          8444973.65214464
+        ],
+        "selectedStartCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_AVGWalkingDistanceWalkingTime": 1.9285714285714286,
+        "startPoint_EuclideanDistance": 14.379712351898782,
+        "startPoint_EuclideanDistanceWalkingTime": 0.20542446216998259,
+        "startPoint_ParkingTime": 0.42,
+        "startPoint_X": 382293,
+        "startPoint_Y": 6670432,
+        "startPoint_coordinatesCRS": "EPSG:3857",
+        "startPoint_id": 0,
+        "startPoint_nearestVertexCoordinates": [
+          2769601.34099989,
+          8434090.84771572
+        ],
+        "startPoint_parking_time": 0.42,
+        "startPoint_selectedPointCoordinates": [
+          2769586.4292452433,
+          8434066.14291409
+        ],
+        "startPoint_vertex_id": 59227,
+        "startPoint_walking_distance": null,
+        "startVertexId": 59227
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

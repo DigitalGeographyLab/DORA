@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 1,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "dgl_nearest_vertex.106290",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            2770620.75925106,
+            8443092.63242954
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "id": 106290,
+        "name": "99563"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  }
+}

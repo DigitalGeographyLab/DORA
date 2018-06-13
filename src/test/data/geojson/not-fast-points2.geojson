@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3047"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0",
+      "properties": {
+        "id": "0",
+        "YKR_ID": 592039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391875.0,
+          6679880.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1",
+      "properties": {
+        "id": "1",
+        "YKR_ID": 5924038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391365.10578802146,
+          6679443.7513493681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "properties": {
+        "id": "2",
+        "YKR_ID": 5927675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          390889.88698833081,
+          6679114.6806631312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "YKR_ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391408.78152368264,
+          6679475.9614654137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": null,
+        "YKR_ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          391593.43413478957,
+          6679614.1524242936
+        ]
+      }
+    }
+  ]
+}

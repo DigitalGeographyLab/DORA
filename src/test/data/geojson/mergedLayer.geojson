@@ -1,0 +1,227 @@
+{
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3067"
+    },
+    "type": "name"
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          382293.0640417632,
+          6670432.444561603
+        ],
+        "type": "Point"
+      },
+      "id": "0",
+      "properties": {
+        "X": 382293,
+        "Y": 6670432,
+        "id": "0",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          371993.9913034623,
+          6670251.28628259
+        ],
+        "type": "Point"
+      },
+      "id": "1",
+      "properties": {
+        "X": 371994,
+        "Y": 6670251,
+        "id": "16",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          393050.27259310614,
+          6682797.619986172
+        ],
+        "type": "Point"
+      },
+      "id": "2",
+      "properties": {
+        "X": 393050,
+        "Y": 6682798,
+        "id": "20",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          392319.6507736137,
+          6675302.757632934
+        ],
+        "type": "Point"
+      },
+      "id": "3",
+      "properties": {
+        "X": 392320,
+        "Y": 6675303,
+        "id": "24",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          394023.43690185685,
+          6678761.233868648
+        ],
+        "type": "Point"
+      },
+      "id": "4",
+      "properties": {
+        "X": 394023,
+        "Y": 6678761,
+        "id": "25",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          384261.85029715847,
+          6671251.3997568125
+        ],
+        "type": "Point"
+      },
+      "id": "5",
+      "properties": {
+        "X": 384262,
+        "Y": 6671251,
+        "id": "26",
+        "parking_time": 0.42,
+        "walking_distance": 180.0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          385273.94117825903,
+          6672329.366375737
+        ],
+        "type": "Point"
+      },
+      "id": "6",
+      "properties": {
+        "X": 385274,
+        "Y": 6672329,
+        "id": "27",
+        "parking_time": 0.42,
+        "walking_distance": 180.0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          378482.7514790395,
+          6677545.52707064
+        ],
+        "type": "Point"
+      },
+      "id": "7",
+      "properties": {
+        "X": 378483,
+        "Y": 6677546,
+        "id": "28",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          383465.35273984255,
+          6677186.2048643315
+        ],
+        "type": "Point"
+      },
+      "id": "8",
+      "properties": {
+        "X": 383465,
+        "Y": 6677186,
+        "id": "31",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          382818.57276848826,
+          6684157.055666702
+        ],
+        "type": "Point"
+      },
+      "id": "9",
+      "properties": {
+        "X": 382819,
+        "Y": 6684157,
+        "id": "35",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          390927.2772241703,
+          6673796.59871816
+        ],
+        "type": "Point"
+      },
+      "id": "10",
+      "properties": {
+        "X": 390927,
+        "Y": 6673797,
+        "id": "37",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          397634.62507525156,
+          6675401.571239668
+        ],
+        "type": "Point"
+      },
+      "id": "11",
+      "properties": {
+        "X": 397635,
+        "Y": 6675402,
+        "id": "38",
+        "parking_time": 0.42,
+        "walking_distance": null
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 1,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "dgl_nearest_car_routable_vertex.106950",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            2776693.21771061,
+            8438105.87566633
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "id": 106950,
+        "name": "100630,100631"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  }
+}

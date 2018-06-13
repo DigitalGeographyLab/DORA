@@ -1,0 +1,4442 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 153,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775247.90536946,
+            8437446.18070367
+          ],
+          [
+            2775191.47595605,
+            8437529.16999046
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 112,
+        "id": 82124,
+        "direction": 2,
+        "distance": 49.990935792,
+        "speed_limit_time": 0.09998187158,
+        "day_avg_delay_time": 0.13899020492,
+        "midday_delay_time": 0.13228187158,
+        "rush_hour_delay_time": 0.14428603825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775191.47595605,
+            8437529.16999046
+          ],
+          [
+            2775190.34736778,
+            8437530.82978578
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 111,
+        "id": 82125,
+        "direction": 2,
+        "distance": 0.99981691454,
+        "speed_limit_time": 0.00199963383,
+        "day_avg_delay_time": 0.04100796716,
+        "midday_delay_time": 0.03429963383,
+        "rush_hour_delay_time": 0.0463038005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775190.34736778,
+            8437530.82978578
+          ],
+          [
+            2775188.09019125,
+            8437534.14937747
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 110,
+        "id": 82126,
+        "direction": 2,
+        "distance": 1.99963361625,
+        "speed_limit_time": 0.00399926723,
+        "day_avg_delay_time": 0.04300760057,
+        "midday_delay_time": 0.03629926723,
+        "rush_hour_delay_time": 0.0483034339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775188.09019125,
+            8437534.14937747
+          ],
+          [
+            2775186.96160297,
+            8437535.80917391
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 109,
+        "id": 82127,
+        "direction": 2,
+        "distance": 0.99981670255,
+        "speed_limit_time": 0.00199963341,
+        "day_avg_delay_time": 0.04100796674,
+        "midday_delay_time": 0.03429963341,
+        "rush_hour_delay_time": 0.04630380007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775186.96160297,
+            8437535.80917391
+          ],
+          [
+            2775183.37269229,
+            8437541.087329
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 108,
+        "id": 82128,
+        "direction": 2,
+        "distance": 3.17941664563,
+        "speed_limit_time": 0.00635883329,
+        "day_avg_delay_time": 0.04536716662,
+        "midday_delay_time": 0.03865883329,
+        "rush_hour_delay_time": 0.05066299996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775183.37269229,
+            8437541.087329
+          ],
+          [
+            2775182.24410402,
+            8437542.74712698
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 107,
+        "id": 82129,
+        "direction": 2,
+        "distance": 0.99981640652,
+        "speed_limit_time": 0.00199963281,
+        "day_avg_delay_time": 0.04100796615,
+        "midday_delay_time": 0.03429963281,
+        "rush_hour_delay_time": 0.04630379948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775182.24410402,
+            8437542.74712698
+          ],
+          [
+            2775140.27190634,
+            8437604.47528
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 106,
+        "id": 82130,
+        "direction": 2,
+        "distance": 37.1831220326,
+        "speed_limit_time": 0.07436624407,
+        "day_avg_delay_time": 0.1133745774,
+        "midday_delay_time": 0.10666624406,
+        "rush_hour_delay_time": 0.11867041073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775140.27190634,
+            8437604.47528
+          ],
+          [
+            2775139.14331807,
+            8437606.13509228
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 105,
+        "id": 82131,
+        "direction": 2,
+        "distance": 0.99981371022,
+        "speed_limit_time": 0.00199962742,
+        "day_avg_delay_time": 0.04100796075,
+        "midday_delay_time": 0.03429962742,
+        "rush_hour_delay_time": 0.04630379409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775139.14331807,
+            8437606.13509228
+          ],
+          [
+            2775094.83494267,
+            8437671.29961897
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 104,
+        "id": 82132,
+        "direction": 2,
+        "distance": 39.252630429,
+        "speed_limit_time": 0.07850526086,
+        "day_avg_delay_time": 0.11751359419,
+        "midday_delay_time": 0.11080526086,
+        "rush_hour_delay_time": 0.12280942753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775094.83494267,
+            8437671.29961897
+          ],
+          [
+            2775093.70635442,
+            8437672.95944634
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 103,
+        "id": 82133,
+        "direction": 2,
+        "distance": 0.99981086608,
+        "speed_limit_time": 0.00199962173,
+        "day_avg_delay_time": 0.04100795507,
+        "midday_delay_time": 0.03429962173,
+        "rush_hour_delay_time": 0.0463037884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775093.70635442,
+            8437672.95944634
+          ],
+          [
+            2775084.45693239,
+            8437687.86341497
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 102,
+        "id": 82134,
+        "direction": 2,
+        "distance": 8.73685115679,
+        "speed_limit_time": 0.01048422139,
+        "day_avg_delay_time": 0.04949255472,
+        "midday_delay_time": 0.04278422139,
+        "rush_hour_delay_time": 0.05478838805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775084.45693239,
+            8437687.86341497
+          ],
+          [
+            2775073.8634868,
+            8437704.93310038
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 101,
+        "id": 82135,
+        "direction": 2,
+        "distance": 10.0063876245,
+        "speed_limit_time": 0.01200766515,
+        "day_avg_delay_time": 0.05101599848,
+        "midday_delay_time": 0.04430766515,
+        "rush_hour_delay_time": 0.05631183182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775073.8634868,
+            8437704.93310038
+          ],
+          [
+            2775062.98430393,
+            8437722.4632481
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 100,
+        "id": 82136,
+        "direction": 2,
+        "distance": 10.2762835463,
+        "speed_limit_time": 0.01233154026,
+        "day_avg_delay_time": 0.05133987359,
+        "midday_delay_time": 0.04463154026,
+        "rush_hour_delay_time": 0.05663570692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775062.98430393,
+            8437722.4632481
+          ],
+          [
+            2775061.92601765,
+            8437724.16851762
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 99,
+        "id": 82137,
+        "direction": 2,
+        "distance": 0.99963811802,
+        "speed_limit_time": 0.00119956574,
+        "day_avg_delay_time": 0.04020789907,
+        "midday_delay_time": 0.03349956574,
+        "rush_hour_delay_time": 0.04550373241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775061.92601765,
+            8437724.16851762
+          ],
+          [
+            2775017.76384873,
+            8437791.482851
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 98,
+        "id": 82138,
+        "direction": 4,
+        "distance": 40.1010321405,
+        "speed_limit_time": 0.04812123857,
+        "day_avg_delay_time": 0.0871295719,
+        "midday_delay_time": 0.08042123857,
+        "rush_hour_delay_time": 0.09242540524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775017.76384873,
+            8437791.482851
+          ],
+          [
+            2775016.66282233,
+            8437793.16110203
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 97,
+        "id": 82139,
+        "direction": 4,
+        "distance": 0.99977502154,
+        "speed_limit_time": 0.00119973003,
+        "day_avg_delay_time": 0.04020806336,
+        "midday_delay_time": 0.03349973003,
+        "rush_hour_delay_time": 0.04550389669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775016.66282233,
+            8437793.16110203
+          ],
+          [
+            2774932.19207689,
+            8437921.91766392
+          ],
+          [
+            2774913.95990483,
+            8437949.71777116
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 96,
+        "id": 82140,
+        "direction": 4,
+        "distance": 93.2617046674,
+        "speed_limit_time": 0.1119140456,
+        "day_avg_delay_time": 0.15092237893,
+        "midday_delay_time": 0.1442140456,
+        "rush_hour_delay_time": 0.15621821227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770780.87392481,
+            8442885.73399243
+          ],
+          [
+            2770786.04312814,
+            8442893.5803339
+          ],
+          [
+            2770790.22327813,
+            8442899.92498937
+          ],
+          [
+            2770822.93668407,
+            8442957.44010401
+          ],
+          [
+            2770840.31043248,
+            8442991.82925173
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 3,
+        "id": 84600,
+        "direction": 2,
+        "distance": 60.5653157243,
+        "speed_limit_time": 0.09084797359,
+        "day_avg_delay_time": 0.24688130692,
+        "midday_delay_time": 0.22004797359,
+        "rush_hour_delay_time": 0.26806464025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770840.31043248,
+            8442991.82925173
+          ],
+          [
+            2770847.10317621,
+            8443010.86348896
+          ],
+          [
+            2770863.71180786,
+            8443070.55697853
+          ],
+          [
+            2770872.55730384,
+            8443129.8004305
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 4,
+        "id": 84601,
+        "direction": 2,
+        "distance": 70.6861390797,
+        "speed_limit_time": 0.10602920862,
+        "day_avg_delay_time": 0.26206254195,
+        "midday_delay_time": 0.23522920862,
+        "rush_hour_delay_time": 0.28324587529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770872.55730384,
+            8443129.8004305
+          ],
+          [
+            2770875.44981834,
+            8443148.00906522
+          ],
+          [
+            2770877.25997258,
+            8443173.50122959
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 5,
+        "id": 84602,
+        "direction": 2,
+        "distance": 21.8865993645,
+        "speed_limit_time": 0.03282989905,
+        "day_avg_delay_time": 0.18886323238,
+        "midday_delay_time": 0.16202989905,
+        "rush_hour_delay_time": 0.21004656571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770877.25997258,
+            8443173.50122959
+          ],
+          [
+            2770876.38288753,
+            8443196.59067424
+          ],
+          [
+            2770873.02665879,
+            8443208.16592228
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 6,
+        "id": 84603,
+        "direction": 2,
+        "distance": 17.4914222799,
+        "speed_limit_time": 0.02623713342,
+        "day_avg_delay_time": 0.10425380009,
+        "midday_delay_time": 0.09083713342,
+        "rush_hour_delay_time": 0.11484546675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770873.02665879,
+            8443208.16592228
+          ],
+          [
+            2770871.94147816,
+            8443211.90858974
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 7,
+        "id": 84604,
+        "direction": 2,
+        "distance": 1.93885259584,
+        "speed_limit_time": 0.00290827889,
+        "day_avg_delay_time": 0.04191661223,
+        "midday_delay_time": 0.03520827889,
+        "rush_hour_delay_time": 0.04721244556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2776090.62126614,
+            8436494.99190766
+          ],
+          [
+            2776088.97885966,
+            8436493.83965954
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 153,
+        "id": 86946,
+        "direction": 2,
+        "distance": 1.00011797156,
+        "speed_limit_time": 0.00200023594,
+        "day_avg_delay_time": 0.04100856928,
+        "midday_delay_time": 0.03430023594,
+        "rush_hour_delay_time": 0.04630440261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2776088.97885966,
+            8436493.83965954
+          ],
+          [
+            2776038.55698096,
+            8436458.46572971
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 152,
+        "id": 86947,
+        "direction": 2,
+        "distance": 30.7036726842,
+        "speed_limit_time": 0.06140734537,
+        "day_avg_delay_time": 0.1004156787,
+        "midday_delay_time": 0.09370734537,
+        "rush_hour_delay_time": 0.10571151203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2776038.55698096,
+            8436458.46572971
+          ],
+          [
+            2776036.91457448,
+            8436457.31348728
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 151,
+        "id": 86948,
+        "direction": 2,
+        "distance": 1.00012129129,
+        "speed_limit_time": 0.00200024258,
+        "day_avg_delay_time": 0.04100857592,
+        "midday_delay_time": 0.03430024258,
+        "rush_hour_delay_time": 0.04630440925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2776036.91457448,
+            8436457.31348728
+          ],
+          [
+            2776022.3792772,
+            8436447.11614985
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 150,
+        "id": 86949,
+        "direction": 2,
+        "distance": 8.85107798759,
+        "speed_limit_time": 0.01770215598,
+        "day_avg_delay_time": 0.05671048931,
+        "midday_delay_time": 0.05000215598,
+        "rush_hour_delay_time": 0.06200632264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2776022.3792772,
+            8436447.11614985
+          ],
+          [
+            2776020.73687072,
+            8436445.96390919
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 149,
+        "id": 86950,
+        "direction": 2,
+        "distance": 1.00012232235,
+        "speed_limit_time": 0.00200024464,
+        "day_avg_delay_time": 0.04100857798,
+        "midday_delay_time": 0.03430024464,
+        "rush_hour_delay_time": 0.04630441131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2776020.73687072,
+            8436445.96390919
+          ],
+          [
+            2775977.64012489,
+            8436415.7291796
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 148,
+        "id": 86951,
+        "direction": 2,
+        "distance": 26.2432471694,
+        "speed_limit_time": 0.05248649434,
+        "day_avg_delay_time": 0.09149482767,
+        "midday_delay_time": 0.08478649434,
+        "rush_hour_delay_time": 0.09679066101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771911.28725363,
+            8442388.16540546
+          ],
+          [
+            2771900.76138037,
+            8442398.28646284
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 24,
+        "id": 87532,
+        "direction": 3,
+        "distance": 7.27154242034,
+        "speed_limit_time": 0.0087258509,
+        "day_avg_delay_time": 0.04805501757,
+        "midday_delay_time": 0.03643418424,
+        "rush_hour_delay_time": 0.0553883509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771900.76138037,
+            8442398.28646284
+          ],
+          [
+            2771881.18644141,
+            8442417.10860388
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 23,
+        "id": 87533,
+        "direction": 3,
+        "distance": 13.5228546675,
+        "speed_limit_time": 0.0162274256,
+        "day_avg_delay_time": 0.09488575893,
+        "midday_delay_time": 0.07164409227,
+        "rush_hour_delay_time": 0.1095524256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773436.55680406,
+            8439100.83204022
+          ],
+          [
+            2773443.83474376,
+            8439078.46839051
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 55,
+        "id": 89623,
+        "direction": 2,
+        "distance": 11.708267964,
+        "speed_limit_time": 0.01404992156,
+        "day_avg_delay_time": 0.09206658822,
+        "midday_delay_time": 0.07864992156,
+        "rush_hour_delay_time": 0.10265825489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773443.83474376,
+            8439078.46839051
+          ],
+          [
+            2773448.0708779,
+            8439070.36346042
+          ],
+          [
+            2773455.10621964,
+            8439064.20972317
+          ],
+          [
+            2773466.15375889,
+            8439062.93394905
+          ],
+          [
+            2773483.04231132,
+            8439060.15726489
+          ],
+          [
+            2773501.47975859,
+            8439055.61701332
+          ],
+          [
+            2773518.62957038,
+            8439048.82540262
+          ],
+          [
+            2773537.64552056,
+            8439039.74491632
+          ],
+          [
+            2773560.09516538,
+            8439025.48632408
+          ],
+          [
+            2773580.11883028,
+            8439008.41357243
+          ],
+          [
+            2773598.79887555,
+            8438985.63745774
+          ],
+          [
+            2773614.69837462,
+            8438959.10918906
+          ],
+          [
+            2773618.41785892,
+            8438945.04325529
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 56,
+        "id": 89624,
+        "direction": 2,
+        "distance": 116.135310177,
+        "speed_limit_time": 0.13936237221,
+        "day_avg_delay_time": 0.21737903888,
+        "midday_delay_time": 0.20396237221,
+        "rush_hour_delay_time": 0.22797070555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773618.41785892,
+            8438945.04325529
+          ],
+          [
+            2773618.93159982,
+            8438943.10044885
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 57,
+        "id": 89625,
+        "direction": 2,
+        "distance": 1.00042137475,
+        "speed_limit_time": 0.00120050565,
+        "day_avg_delay_time": 0.04020883898,
+        "midday_delay_time": 0.03350050565,
+        "rush_hour_delay_time": 0.04550467232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773618.93159982,
+            8438943.10044885
+          ],
+          [
+            2773620.33411255,
+            8438937.79658993
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 58,
+        "id": 89626,
+        "direction": 2,
+        "distance": 2.73115043217,
+        "speed_limit_time": 0.00327738052,
+        "day_avg_delay_time": 0.04228571385,
+        "midday_delay_time": 0.03557738052,
+        "rush_hour_delay_time": 0.04758154719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775977.4555937,
+            8436415.99204108
+          ],
+          [
+            2775976.30227386,
+            8436417.63492561
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 147,
+        "id": 95100,
+        "direction": 4,
+        "distance": 1.00006350143,
+        "speed_limit_time": 0.002000127,
+        "day_avg_delay_time": 0.04100846034,
+        "midday_delay_time": 0.034300127,
+        "rush_hour_delay_time": 0.04630429367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775976.30227386,
+            8436417.63492561
+          ],
+          [
+            2775867.23281701,
+            8436573.0041732
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 146,
+        "id": 95101,
+        "direction": 4,
+        "distance": 94.5756750619,
+        "speed_limit_time": 0.18915135012,
+        "day_avg_delay_time": 0.22815968346,
+        "midday_delay_time": 0.22145135012,
+        "rush_hour_delay_time": 0.23345551679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775867.23281701,
+            8436573.0041732
+          ],
+          [
+            2775866.07949717,
+            8436574.64709276
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 145,
+        "id": 95102,
+        "direction": 4,
+        "distance": 1.00005651739,
+        "speed_limit_time": 0.00200011303,
+        "day_avg_delay_time": 0.04100844637,
+        "midday_delay_time": 0.03430011303,
+        "rush_hour_delay_time": 0.0463042797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775866.07949717,
+            8436574.64709276
+          ],
+          [
+            2775819.85443817,
+            8436640.49561252
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 144,
+        "id": 95103,
+        "direction": 4,
+        "distance": 40.0822050887,
+        "speed_limit_time": 0.08016441018,
+        "day_avg_delay_time": 0.11917274351,
+        "midday_delay_time": 0.11246441018,
+        "rush_hour_delay_time": 0.12446857684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775819.85443817,
+            8436640.49561252
+          ],
+          [
+            2775818.70111834,
+            8436642.1385472
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 143,
+        "id": 95104,
+        "direction": 4,
+        "distance": 1.00005351638,
+        "speed_limit_time": 0.00200010703,
+        "day_avg_delay_time": 0.04100844037,
+        "midday_delay_time": 0.03430010703,
+        "rush_hour_delay_time": 0.0463042737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775818.68538291,
+            8436642.16122633
+          ],
+          [
+            2775817.01896286,
+            8436644.56300062
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 142,
+        "id": 95105,
+        "direction": 4,
+        "distance": 1.47011054146,
+        "speed_limit_time": 0.00294022108,
+        "day_avg_delay_time": 0.04194855442,
+        "midday_delay_time": 0.03524022108,
+        "rush_hour_delay_time": 0.04724438775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775817.01896286,
+            8436644.56300062
+          ],
+          [
+            2775815.87463941,
+            8436646.21228912
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 141,
+        "id": 95106,
+        "direction": 4,
+        "distance": 1.00007511007,
+        "speed_limit_time": 0.00200015022,
+        "day_avg_delay_time": 0.04100848355,
+        "midday_delay_time": 0.03430015022,
+        "rush_hour_delay_time": 0.04630431689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775815.87463941,
+            8436646.21228912
+          ],
+          [
+            2775699.55416126,
+            8436813.86439426
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 140,
+        "id": 95107,
+        "direction": 4,
+        "distance": 101.657258259,
+        "speed_limit_time": 0.20331451652,
+        "day_avg_delay_time": 0.24232284985,
+        "midday_delay_time": 0.23561451652,
+        "rush_hour_delay_time": 0.24761868318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775699.55416126,
+            8436813.86439426
+          ],
+          [
+            2775698.40983782,
+            8436815.51372072
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 139,
+        "id": 95108,
+        "direction": 4,
+        "distance": 1.00006769909,
+        "speed_limit_time": 0.0020001354,
+        "day_avg_delay_time": 0.04100846873,
+        "midday_delay_time": 0.0343001354,
+        "rush_hour_delay_time": 0.04630430206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775698.40983782,
+            8436815.51372072
+          ],
+          [
+            2775614.37762619,
+            8436933.86281721
+          ],
+          [
+            2775611.47178212,
+            8436937.96233332
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 138,
+        "id": 95109,
+        "direction": 4,
+        "distance": 74.8144227998,
+        "speed_limit_time": 0.1496288456,
+        "day_avg_delay_time": 0.18863717893,
+        "midday_delay_time": 0.1819288456,
+        "rush_hour_delay_time": 0.19393301227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775611.47178212,
+            8436937.96233332
+          ],
+          [
+            2775610.30944449,
+            8436939.6021404
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 137,
+        "id": 95110,
+        "direction": 4,
+        "distance": 1.00133674704,
+        "speed_limit_time": 0.00200267349,
+        "day_avg_delay_time": 0.04101100683,
+        "midday_delay_time": 0.03430267349,
+        "rush_hour_delay_time": 0.04630684016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775610.30944449,
+            8436939.6021404
+          ],
+          [
+            2775530.65445038,
+            8437053.81152835
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 136,
+        "id": 95111,
+        "direction": 4,
+        "distance": 69.3674072413,
+        "speed_limit_time": 0.13873481448,
+        "day_avg_delay_time": 0.17774314782,
+        "midday_delay_time": 0.17103481448,
+        "rush_hour_delay_time": 0.18303898115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775530.65445038,
+            8437053.81152835
+          ],
+          [
+            2775529.50602198,
+            8437055.45815882
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 135,
+        "id": 95112,
+        "direction": 4,
+        "distance": 1.00010424025,
+        "speed_limit_time": 0.00200020848,
+        "day_avg_delay_time": 0.04100854181,
+        "midday_delay_time": 0.03430020848,
+        "rush_hour_delay_time": 0.04630437515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775529.50602198,
+            8437055.45815882
+          ],
+          [
+            2775517.56236659,
+            8437072.5831373
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 134,
+        "id": 95113,
+        "direction": 4,
+        "distance": 10.401079797,
+        "speed_limit_time": 0.02080215959,
+        "day_avg_delay_time": 0.05981049293,
+        "midday_delay_time": 0.05310215959,
+        "rush_hour_delay_time": 0.06510632626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775517.56236659,
+            8437072.5831373
+          ],
+          [
+            2775480.29558296,
+            8437121.72481954
+          ],
+          [
+            2775480.00302062,
+            8437122.10962889
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 133,
+        "id": 95114,
+        "direction": 4,
+        "distance": 30.9668787638,
+        "speed_limit_time": 0.06193375753,
+        "day_avg_delay_time": 0.10094209086,
+        "midday_delay_time": 0.09423375753,
+        "rush_hour_delay_time": 0.10623792419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775480.00302062,
+            8437122.10962889
+          ],
+          [
+            2775478.78401088,
+            8437123.71300139
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 132,
+        "id": 95115,
+        "direction": 4,
+        "distance": 1.00344391283,
+        "speed_limit_time": 0.00200688783,
+        "day_avg_delay_time": 0.04101522116,
+        "midday_delay_time": 0.03430688783,
+        "rush_hour_delay_time": 0.04631105449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775478.78401088,
+            8437123.71300139
+          ],
+          [
+            2775451.9380933,
+            8437160.41237138
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 131,
+        "id": 95116,
+        "direction": 4,
+        "distance": 22.6524762568,
+        "speed_limit_time": 0.04530495251,
+        "day_avg_delay_time": 0.08431328585,
+        "midday_delay_time": 0.07760495251,
+        "rush_hour_delay_time": 0.08960911918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775451.9380933,
+            8437160.41237138
+          ],
+          [
+            2775450.75300004,
+            8437162.03244226
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 130,
+        "id": 95117,
+        "direction": 4,
+        "distance": 0.99997598072,
+        "speed_limit_time": 0.00199995196,
+        "day_avg_delay_time": 0.04100828529,
+        "midday_delay_time": 0.03429995196,
+        "rush_hour_delay_time": 0.04630411863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775450.75300004,
+            8437162.03244226
+          ],
+          [
+            2775418.05272175,
+            8437206.73519885
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 129,
+        "id": 95118,
+        "direction": 4,
+        "distance": 27.592307171,
+        "speed_limit_time": 0.05518461434,
+        "day_avg_delay_time": 0.09419294768,
+        "midday_delay_time": 0.08748461434,
+        "rush_hour_delay_time": 0.09948878101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775418.05272175,
+            8437206.73519885
+          ],
+          [
+            2775416.86762849,
+            8437208.35527994
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 128,
+        "id": 95119,
+        "direction": 4,
+        "distance": 0.9999738009,
+        "speed_limit_time": 0.0019999476,
+        "day_avg_delay_time": 0.04100828094,
+        "midday_delay_time": 0.0342999476,
+        "rush_hour_delay_time": 0.04630411427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775416.86762849,
+            8437208.35527994
+          ],
+          [
+            2775367.39709551,
+            8437275.98426325
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 127,
+        "id": 95120,
+        "direction": 4,
+        "distance": 41.7428385137,
+        "speed_limit_time": 0.08348567703,
+        "day_avg_delay_time": 0.12249401036,
+        "midday_delay_time": 0.11578567703,
+        "rush_hour_delay_time": 0.12778984369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775367.39709551,
+            8437275.98426325
+          ],
+          [
+            2775366.33051158,
+            8437277.44234995
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 126,
+        "id": 95121,
+        "direction": 4,
+        "distance": 0.89997349658,
+        "speed_limit_time": 0.0010799682,
+        "day_avg_delay_time": 0.07909663486,
+        "midday_delay_time": 0.0656799682,
+        "rush_hour_delay_time": 0.08968830153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774103.30121065,
+            8438032.90378221
+          ],
+          [
+            2774102.07773754,
+            8438038.22110662
+          ],
+          [
+            2774095.58357593,
+            8438066.73448953
+          ],
+          [
+            2774085.35397708,
+            8438105.4822101
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 77,
+        "id": 95457,
+        "direction": 3,
+        "distance": 37.3299294239,
+        "speed_limit_time": 0.04479591531,
+        "day_avg_delay_time": 0.08412508198,
+        "midday_delay_time": 0.07250424864,
+        "rush_hour_delay_time": 0.09145841531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774085.35397708,
+            8438105.4822101
+          ],
+          [
+            2774084.84121524,
+            8438107.42445714
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 76,
+        "id": 95458,
+        "direction": 3,
+        "distance": 1.00014068124,
+        "speed_limit_time": 0.00120016882,
+        "day_avg_delay_time": 0.04052933548,
+        "midday_delay_time": 0.02890850215,
+        "rush_hour_delay_time": 0.04786266882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774084.84121524,
+            8438107.42445714
+          ],
+          [
+            2774030.42692791,
+            8438313.53862596
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 75,
+        "id": 95459,
+        "direction": 3,
+        "distance": 106.134838163,
+        "speed_limit_time": 0.1273618058,
+        "day_avg_delay_time": 0.16669097246,
+        "midday_delay_time": 0.15507013913,
+        "rush_hour_delay_time": 0.1740243058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774030.42692791,
+            8438313.53862596
+          ],
+          [
+            2774029.91416605,
+            8438315.48092796
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 74,
+        "id": 95460,
+        "direction": 3,
+        "distance": 1.00013896735,
+        "speed_limit_time": 0.00120016676,
+        "day_avg_delay_time": 0.04052933343,
+        "midday_delay_time": 0.02890850009,
+        "rush_hour_delay_time": 0.04786266676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774029.91416605,
+            8438315.48092796
+          ],
+          [
+            2774028.79448302,
+            8438319.75808964
+          ],
+          [
+            2773994.75352484,
+            8438457.37081189
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 73,
+        "id": 95461,
+        "direction": 3,
+        "distance": 72.7775764111,
+        "speed_limit_time": 0.08733309169,
+        "day_avg_delay_time": 0.12666225836,
+        "midday_delay_time": 0.11504142503,
+        "rush_hour_delay_time": 0.13399559169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773994.75352484,
+            8438457.37081189
+          ],
+          [
+            2773994.27108497,
+            8438459.3211241
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 72,
+        "id": 95462,
+        "direction": 3,
+        "distance": 1.00023142543,
+        "speed_limit_time": 0.00120027771,
+        "day_avg_delay_time": 0.04052944438,
+        "midday_delay_time": 0.02890861104,
+        "rush_hour_delay_time": 0.04786277771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773994.27108497,
+            8438459.3211241
+          ],
+          [
+            2773992.14352507,
+            8438467.92200706
+          ],
+          [
+            2773978.2221327,
+            8438523.1887758
+          ],
+          [
+            2773974.18064273,
+            8438539.2155134
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 71,
+        "id": 95463,
+        "direction": 3,
+        "distance": 41.0301241488,
+        "speed_limit_time": 0.04923614898,
+        "day_avg_delay_time": 0.12789448231,
+        "midday_delay_time": 0.10465281564,
+        "rush_hour_delay_time": 0.14256114898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773974.17231232,
+            8438539.24850497
+          ],
+          [
+            2773960.39587394,
+            8438591.9002065
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 70,
+        "id": 95464,
+        "direction": 3,
+        "distance": 27.0956509523,
+        "speed_limit_time": 0.03251478114,
+        "day_avg_delay_time": 0.11117311448,
+        "midday_delay_time": 0.08793144781,
+        "rush_hour_delay_time": 0.12583978114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773960.39587394,
+            8438591.9002065
+          ],
+          [
+            2773959.88731954,
+            8438593.84384046
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 69,
+        "id": 95465,
+        "direction": 3,
+        "distance": 1.00020837859,
+        "speed_limit_time": 0.00120025005,
+        "day_avg_delay_time": 0.04052941672,
+        "midday_delay_time": 0.02890858339,
+        "rush_hour_delay_time": 0.04786275005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773959.88731954,
+            8438593.84384046
+          ],
+          [
+            2773933.44249122,
+            8438694.91351419
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 68,
+        "id": 95466,
+        "direction": 3,
+        "distance": 52.0108139918,
+        "speed_limit_time": 0.06241297679,
+        "day_avg_delay_time": 0.10174214346,
+        "midday_delay_time": 0.09012131012,
+        "rush_hour_delay_time": 0.10907547679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773933.44249122,
+            8438694.91351419
+          ],
+          [
+            2773932.93393682,
+            8438696.85717542
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 67,
+        "id": 95467,
+        "direction": 3,
+        "distance": 1.00020754392,
+        "speed_limit_time": 0.00120024905,
+        "day_avg_delay_time": 0.04052941572,
+        "midday_delay_time": 0.02890858239,
+        "rush_hour_delay_time": 0.04786274905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773932.93393682,
+            8438696.85717542
+          ],
+          [
+            2773906.02512051,
+            8438799.70162157
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 66,
+        "id": 95468,
+        "direction": 3,
+        "distance": 52.9309608082,
+        "speed_limit_time": 0.06351715297,
+        "day_avg_delay_time": 0.1421754863,
+        "midday_delay_time": 0.11893381964,
+        "rush_hour_delay_time": 0.15684215297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773906.02123845,
+            8438799.71645866
+          ],
+          [
+            2773905.21879895,
+            8438802.79321594
+          ],
+          [
+            2773896.16802775,
+            8438837.3130201
+          ],
+          [
+            2773859.59326384,
+            8438976.70866138
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 65,
+        "id": 95469,
+        "direction": 3,
+        "distance": 91.0927541695,
+        "speed_limit_time": 0.109311305,
+        "day_avg_delay_time": 0.18796963834,
+        "midday_delay_time": 0.16472797167,
+        "rush_hour_delay_time": 0.202636305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773859.59326384,
+            8438976.70866138
+          ],
+          [
+            2773859.0833689,
+            8438978.65201814
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 64,
+        "id": 95470,
+        "direction": 3,
+        "distance": 1.00019249915,
+        "speed_limit_time": 0.001200231,
+        "day_avg_delay_time": 0.04052939767,
+        "midday_delay_time": 0.02890856433,
+        "rush_hour_delay_time": 0.047862731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773859.0833689,
+            8438978.65201814
+          ],
+          [
+            2773854.70847033,
+            8438995.32604035
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 63,
+        "id": 95471,
+        "direction": 3,
+        "distance": 8.58165098888,
+        "speed_limit_time": 0.01029798119,
+        "day_avg_delay_time": 0.04962714785,
+        "midday_delay_time": 0.03800631452,
+        "rush_hour_delay_time": 0.05696048119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773854.70847033,
+            8438995.32604035
+          ],
+          [
+            2773854.19857539,
+            8438997.26940204
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 62,
+        "id": 95472,
+        "direction": 3,
+        "distance": 1.00019234579,
+        "speed_limit_time": 0.00120023081,
+        "day_avg_delay_time": 0.04052939748,
+        "midday_delay_time": 0.02890856415,
+        "rush_hour_delay_time": 0.04786273081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770780.87392481,
+            8442885.73399243
+          ],
+          [
+            2770761.13018065,
+            8442925.9794307
+          ],
+          [
+            2770739.81888026,
+            8442966.11246126
+          ],
+          [
+            2770726.00945619,
+            8442983.56983477
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 2,
+        "id": 99561,
+        "direction": 2,
+        "distance": 56.0049684165,
+        "speed_limit_time": 0.08400745262,
+        "day_avg_delay_time": 0.24004078596,
+        "midday_delay_time": 0.21320745262,
+        "rush_hour_delay_time": 0.26122411929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770726.00945619,
+            8442983.56983477
+          ],
+          [
+            2770709.60609974,
+            8443010.60068849
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 1,
+        "id": 99562,
+        "direction": 2,
+        "distance": 15.7372519649,
+        "speed_limit_time": 0.02360587795,
+        "day_avg_delay_time": 0.10162254461,
+        "midday_delay_time": 0.08820587795,
+        "rush_hour_delay_time": 0.11221421128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770709.60609974,
+            8443010.60068849
+          ],
+          [
+            2770688.68668841,
+            8443035.3039723
+          ],
+          [
+            2770654.34974207,
+            8443066.38968142
+          ],
+          [
+            2770620.75925106,
+            8443092.63242954
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 0,
+        "id": 99563,
+        "direction": 2,
+        "distance": 60.4077796834,
+        "speed_limit_time": 0.09061166953,
+        "day_avg_delay_time": 0.12962000286,
+        "midday_delay_time": 0.12291166953,
+        "rush_hour_delay_time": 0.13491583619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775366.33051158,
+            8437277.44234995
+          ],
+          [
+            2775342.96645896,
+            8437305.76521357
+          ],
+          [
+            2775324.17478997,
+            8437333.52232438
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 125,
+        "id": 100487,
+        "direction": 2,
+        "distance": 34.9902436087,
+        "speed_limit_time": 0.04198829233,
+        "day_avg_delay_time": 0.120004959,
+        "midday_delay_time": 0.10658829233,
+        "rush_hour_delay_time": 0.13059662566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775324.17478997,
+            8437333.52232438
+          ],
+          [
+            2775323.04954034,
+            8437335.18443012
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 124,
+        "id": 100488,
+        "direction": 2,
+        "distance": 0.99985895139,
+        "speed_limit_time": 0.00119983074,
+        "day_avg_delay_time": 0.04020816407,
+        "midday_delay_time": 0.03349983074,
+        "rush_hour_delay_time": 0.04550399741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775323.04954034,
+            8437335.18443012
+          ],
+          [
+            2775312.92229359,
+            8437350.14339893
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 123,
+        "id": 100489,
+        "direction": 2,
+        "distance": 8.99872739258,
+        "speed_limit_time": 0.01079847287,
+        "day_avg_delay_time": 0.0498068062,
+        "midday_delay_time": 0.04309847287,
+        "rush_hour_delay_time": 0.05510263954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775312.92229359,
+            8437350.14339893
+          ],
+          [
+            2775311.79704394,
+            8437351.80550846
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 122,
+        "id": 100490,
+        "direction": 2,
+        "distance": 0.99985824783,
+        "speed_limit_time": 0.0011998299,
+        "day_avg_delay_time": 0.04020816323,
+        "midday_delay_time": 0.0334998299,
+        "rush_hour_delay_time": 0.04550399656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775311.79704394,
+            8437351.80550846
+          ],
+          [
+            2775310.1091695,
+            8437354.29867345
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 121,
+        "id": 100491,
+        "direction": 2,
+        "distance": 1.49978724025,
+        "speed_limit_time": 0.00179974469,
+        "day_avg_delay_time": 0.04080807802,
+        "midday_delay_time": 0.03409974469,
+        "rush_hour_delay_time": 0.04610391135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775310.1091695,
+            8437354.29867345
+          ],
+          [
+            2775308.98391985,
+            8437355.96078392
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 120,
+        "id": 100492,
+        "direction": 2,
+        "distance": 0.99985807086,
+        "speed_limit_time": 0.00119982969,
+        "day_avg_delay_time": 0.04020816302,
+        "midday_delay_time": 0.03349982969,
+        "rush_hour_delay_time": 0.04550399635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775308.98391985,
+            8437355.96078392
+          ],
+          [
+            2775291.22185431,
+            8437382.19724737
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 119,
+        "id": 100493,
+        "direction": 2,
+        "distance": 15.7827503528,
+        "speed_limit_time": 0.01893930042,
+        "day_avg_delay_time": 0.05794763376,
+        "midday_delay_time": 0.05123930042,
+        "rush_hour_delay_time": 0.06324346709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775291.22185431,
+            8437382.19724737
+          ],
+          [
+            2775290.09660465,
+            8437383.85936416
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 118,
+        "id": 100494,
+        "direction": 2,
+        "distance": 0.99985689135,
+        "speed_limit_time": 0.00119982827,
+        "day_avg_delay_time": 0.0402081616,
+        "midday_delay_time": 0.03349982827,
+        "rush_hour_delay_time": 0.04550399494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775290.09660465,
+            8437383.85936416
+          ],
+          [
+            2775269.03755767,
+            8437414.96594886
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 117,
+        "id": 100495,
+        "direction": 2,
+        "distance": 18.7123087603,
+        "speed_limit_time": 0.02245477051,
+        "day_avg_delay_time": 0.06146310385,
+        "midday_delay_time": 0.05475477051,
+        "rush_hour_delay_time": 0.06675893718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775269.03755767,
+            8437414.96594886
+          ],
+          [
+            2775267.91230803,
+            8437416.62807304
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 116,
+        "id": 100496,
+        "direction": 2,
+        "distance": 0.99985550549,
+        "speed_limit_time": 0.00119982661,
+        "day_avg_delay_time": 0.04020815994,
+        "midday_delay_time": 0.03349982661,
+        "rush_hour_delay_time": 0.04550399327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775267.91230803,
+            8437416.62807304
+          ],
+          [
+            2775261.1608102,
+            8437426.60082598
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 115,
+        "id": 100497,
+        "direction": 2,
+        "distance": 5.99913155884,
+        "speed_limit_time": 0.00719895787,
+        "day_avg_delay_time": 0.0462072912,
+        "midday_delay_time": 0.03949895787,
+        "rush_hour_delay_time": 0.05150312454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775261.1608102,
+            8437426.60082598
+          ],
+          [
+            2775260.03556056,
+            8437428.2629528
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 114,
+        "id": 100498,
+        "direction": 2,
+        "distance": 0.99985501333,
+        "speed_limit_time": 0.00119982602,
+        "day_avg_delay_time": 0.04020815935,
+        "midday_delay_time": 0.03349982602,
+        "rush_hour_delay_time": 0.04550399268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2775260.03556056,
+            8437428.2629528
+          ],
+          [
+            2775247.90536946,
+            8437446.18070367
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 113,
+        "id": 100499,
+        "direction": 2,
+        "distance": 10.7784325813,
+        "speed_limit_time": 0.0129341191,
+        "day_avg_delay_time": 0.05194245243,
+        "midday_delay_time": 0.0452341191,
+        "rush_hour_delay_time": 0.05723828576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771881.07086124,
+            8442417.2200126
+          ],
+          [
+            2771876.70770928,
+            8442421.42569257
+          ],
+          [
+            2771840.11273548,
+            8442456.26281378
+          ],
+          [
+            2771803.06988847,
+            8442486.29494734
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 22,
+        "id": 102546,
+        "direction": 3,
+        "distance": 51.9278770095,
+        "speed_limit_time": 0.06231345241,
+        "day_avg_delay_time": 0.14097178574,
+        "midday_delay_time": 0.11773011908,
+        "rush_hour_delay_time": 0.15563845241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773436.55680406,
+            8439100.83204022
+          ],
+          [
+            2773435.98362309,
+            8439103.33927844
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 54,
+        "id": 103925,
+        "direction": 2,
+        "distance": 1.28030639448,
+        "speed_limit_time": 0.00153636767,
+        "day_avg_delay_time": 0.04054470101,
+        "midday_delay_time": 0.03383636767,
+        "rush_hour_delay_time": 0.04584053434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773435.98362309,
+            8439103.33927844
+          ],
+          [
+            2773435.53582544,
+            8439105.29805889
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 53,
+        "id": 103926,
+        "direction": 2,
+        "distance": 1.00023935459,
+        "speed_limit_time": 0.00120028723,
+        "day_avg_delay_time": 0.04020862056,
+        "midday_delay_time": 0.03350028723,
+        "rush_hour_delay_time": 0.04550445389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773435.53582544,
+            8439105.29805889
+          ],
+          [
+            2773434.69844388,
+            8439108.96097974
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 52,
+        "id": 103927,
+        "direction": 2,
+        "distance": 1.87044756608,
+        "speed_limit_time": 0.00224453708,
+        "day_avg_delay_time": 0.04125287041,
+        "midday_delay_time": 0.03454453708,
+        "rush_hour_delay_time": 0.04654870375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773434.69844388,
+            8439108.96097974
+          ],
+          [
+            2773434.25064624,
+            8439110.91976168
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 51,
+        "id": 103928,
+        "direction": 2,
+        "distance": 1.00023932154,
+        "speed_limit_time": 0.00120028719,
+        "day_avg_delay_time": 0.04020862052,
+        "midday_delay_time": 0.03350028719,
+        "rush_hour_delay_time": 0.04550445385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773434.25064624,
+            8439110.91976168
+          ],
+          [
+            2773383.4838283,
+            8439332.9902548
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 50,
+        "id": 103929,
+        "direction": 2,
+        "distance": 113.397054206,
+        "speed_limit_time": 0.13607646505,
+        "day_avg_delay_time": 0.21409313171,
+        "midday_delay_time": 0.20067646505,
+        "rush_hour_delay_time": 0.22468479838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772115.62531502,
+            8442081.44721908
+          ],
+          [
+            2772097.47188065,
+            8442111.80301636
+          ],
+          [
+            2772040.12544795,
+            8442204.26050747
+          ],
+          [
+            2772015.15651632,
+            8442244.57729281
+          ],
+          [
+            2771984.32791014,
+            8442290.41256595
+          ],
+          [
+            2771970.10793563,
+            8442310.87148203
+          ],
+          [
+            2771934.81925871,
+            8442357.94597484
+          ],
+          [
+            2771911.28725363,
+            8442388.16540546
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 25,
+        "id": 111574,
+        "direction": 2,
+        "distance": 183.629027992,
+        "speed_limit_time": 0.22035483359,
+        "day_avg_delay_time": 0.25968400026,
+        "midday_delay_time": 0.24806316692,
+        "rush_hour_delay_time": 0.26701733359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772116.65617442,
+            8442079.72344105
+          ],
+          [
+            2772115.62531502,
+            8442081.44721908
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 26,
+        "id": 111575,
+        "direction": 2,
+        "distance": 0.99978847194,
+        "speed_limit_time": 0.00119974617,
+        "day_avg_delay_time": 0.04052891283,
+        "midday_delay_time": 0.0289080795,
+        "rush_hour_delay_time": 0.04786224617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772215.6357634,
+            8441891.49385213
+          ],
+          [
+            2772208.97364936,
+            8441905.15740786
+          ],
+          [
+            2772183.96739495,
+            8441954.18125371
+          ],
+          [
+            2772158.66255841,
+            8442001.74145332
+          ],
+          [
+            2772129.43883123,
+            8442058.3486271
+          ],
+          [
+            2772116.65617442,
+            8442079.72344105
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 27,
+        "id": 111576,
+        "direction": 2,
+        "distance": 105.879706995,
+        "speed_limit_time": 0.12705564839,
+        "day_avg_delay_time": 0.16638481506,
+        "midday_delay_time": 0.15476398173,
+        "rush_hour_delay_time": 0.17371814839
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772378.1017715,
+            8441582.49406575
+          ],
+          [
+            2772360.07487467,
+            8441613.27334538
+          ],
+          [
+            2772323.74116025,
+            8441667.51275546
+          ],
+          [
+            2772302.74710337,
+            8441701.0325356
+          ],
+          [
+            2772290.24397617,
+            8441725.05576435
+          ],
+          [
+            2772273.82195835,
+            8441765.82036027
+          ],
+          [
+            2772258.31434835,
+            8441799.41566217
+          ],
+          [
+            2772234.20384036,
+            8441853.31861261
+          ],
+          [
+            2772215.6357634,
+            8441891.49385213
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 28,
+        "id": 111577,
+        "direction": 2,
+        "distance": 174.23702091,
+        "speed_limit_time": 0.20908442509,
+        "day_avg_delay_time": 0.24841359176,
+        "midday_delay_time": 0.23679275842,
+        "rush_hour_delay_time": 0.25574692509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772413.20383459,
+            8441527.69225272
+          ],
+          [
+            2772378.1017715,
+            8441582.49406575
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 29,
+        "id": 111578,
+        "direction": 2,
+        "distance": 32.39913886,
+        "speed_limit_time": 0.03887896663,
+        "day_avg_delay_time": 0.11753729996,
+        "midday_delay_time": 0.0942956333,
+        "rush_hour_delay_time": 0.13220396663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772415.54321314,
+            8441524.03821169
+          ],
+          [
+            2772413.20383459,
+            8441527.69225272
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 30,
+        "id": 111579,
+        "direction": 2,
+        "distance": 2.15999267695,
+        "speed_limit_time": 0.00259199121,
+        "day_avg_delay_time": 0.08125032455,
+        "midday_delay_time": 0.05800865788,
+        "rush_hour_delay_time": 0.09591699121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772416.62625878,
+            8441522.34652665
+          ],
+          [
+            2772415.54321314,
+            8441524.03821169
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 31,
+        "id": 111580,
+        "direction": 2,
+        "distance": 0.99999671454,
+        "speed_limit_time": 0.00119999606,
+        "day_avg_delay_time": 0.04052916272,
+        "midday_delay_time": 0.02890832939,
+        "rush_hour_delay_time": 0.04786249606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772492.43945288,
+            8441403.92954139
+          ],
+          [
+            2772416.62625878,
+            8441522.34652665
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 32,
+        "id": 111581,
+        "direction": 2,
+        "distance": 69.9999343491,
+        "speed_limit_time": 0.08399992122,
+        "day_avg_delay_time": 0.12332908789,
+        "midday_delay_time": 0.11170825455,
+        "rush_hour_delay_time": 0.13066242122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772493.52249852,
+            8441402.23788397
+          ],
+          [
+            2772492.43945288,
+            8441403.92954139
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 33,
+        "id": 111582,
+        "direction": 2,
+        "distance": 1.0000014093,
+        "speed_limit_time": 0.00120000169,
+        "day_avg_delay_time": 0.04052916836,
+        "midday_delay_time": 0.02890833502,
+        "rush_hour_delay_time": 0.04786250169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772504.81866442,
+            8441384.59392051
+          ],
+          [
+            2772493.52249852,
+            8441402.23788397
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 34,
+        "id": 111583,
+        "direction": 2,
+        "distance": 10.4300186461,
+        "speed_limit_time": 0.01251602238,
+        "day_avg_delay_time": 0.05184518904,
+        "midday_delay_time": 0.04022435571,
+        "rush_hour_delay_time": 0.05917852238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772505.90171006,
+            8441382.90226755
+          ],
+          [
+            2772504.81866442,
+            8441384.59392051
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 35,
+        "id": 111584,
+        "direction": 2,
+        "distance": 1.00000216577,
+        "speed_limit_time": 0.0012000026,
+        "day_avg_delay_time": 0.04052916927,
+        "midday_delay_time": 0.02890833593,
+        "rush_hour_delay_time": 0.0478625026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772567.06694471,
+            8441287.35734533
+          ],
+          [
+            2772556.52326281,
+            8441303.83484304
+          ],
+          [
+            2772505.90171006,
+            8441382.90226755
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 36,
+        "id": 111585,
+        "direction": 2,
+        "distance": 56.4792525231,
+        "speed_limit_time": 0.06777510303,
+        "day_avg_delay_time": 0.10710426969,
+        "midday_delay_time": 0.09548343636,
+        "rush_hour_delay_time": 0.11443760303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772791.4665953,
+            8441073.16943724
+          ],
+          [
+            2772766.94902751,
+            8441079.72151872
+          ],
+          [
+            2772731.45507536,
+            8441096.2360842
+          ],
+          [
+            2772708.91212363,
+            8441107.1582376
+          ],
+          [
+            2772689.11239532,
+            8441119.95707037
+          ],
+          [
+            2772670.02179962,
+            8441136.13392607
+          ],
+          [
+            2772641.28326842,
+            8441170.81482252
+          ],
+          [
+            2772572.94528065,
+            8441278.16149138
+          ],
+          [
+            2772567.06694471,
+            8441287.35734533
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 37,
+        "id": 111586,
+        "direction": 2,
+        "distance": 160.064105601,
+        "speed_limit_time": 0.19207692672,
+        "day_avg_delay_time": 0.23140609339,
+        "midday_delay_time": 0.21978526005,
+        "rush_hour_delay_time": 0.23873942672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772794.64515745,
+            8441072.31999788
+          ],
+          [
+            2772791.4665953,
+            8441073.16943724
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 38,
+        "id": 111587,
+        "direction": 2,
+        "distance": 1.63979390214,
+        "speed_limit_time": 0.00196775268,
+        "day_avg_delay_time": 0.04129691935,
+        "midday_delay_time": 0.02967608602,
+        "rush_hour_delay_time": 0.04863025268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772796.32404892,
+            8441071.87133073
+          ],
+          [
+            2772794.64515745,
+            8441072.31999788
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 39,
+        "id": 111588,
+        "direction": 2,
+        "distance": 0.99987441643,
+        "speed_limit_time": 0.0011998493,
+        "day_avg_delay_time": 0.04052901597,
+        "midday_delay_time": 0.02890818263,
+        "rush_hour_delay_time": 0.0478623493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771803.06988847,
+            8442486.29494734
+          ],
+          [
+            2771766.73617405,
+            8442511.14663066
+          ],
+          [
+            2771709.89359875,
+            8442551.42755861
+          ],
+          [
+            2771653.48023525,
+            8442592.91001249
+          ],
+          [
+            2771642.7724929,
+            8442600.43446654
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 21,
+        "id": 114277,
+        "direction": 3,
+        "distance": 98.0209705019,
+        "speed_limit_time": 0.1176251646,
+        "day_avg_delay_time": 0.19628349793,
+        "midday_delay_time": 0.17304183127,
+        "rush_hour_delay_time": 0.2109501646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771642.7724929,
+            8442600.43446654
+          ],
+          [
+            2771626.23461477,
+            8442612.05583938
+          ],
+          [
+            2771560.71449597,
+            8442658.04356846
+          ],
+          [
+            2771469.90820199,
+            8442721.56341928
+          ],
+          [
+            2771403.9511263,
+            8442767.97307504
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 20,
+        "id": 114278,
+        "direction": 3,
+        "distance": 145.302008585,
+        "speed_limit_time": 0.1743624103,
+        "day_avg_delay_time": 0.21369157697,
+        "midday_delay_time": 0.20207074363,
+        "rush_hour_delay_time": 0.2210249103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771403.9511263,
+            8442767.97307504
+          ],
+          [
+            2771402.30917767,
+            8442769.12841002
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 19,
+        "id": 114279,
+        "direction": 3,
+        "distance": 0.99996225191,
+        "speed_limit_time": 0.0011999547,
+        "day_avg_delay_time": 0.04052912137,
+        "midday_delay_time": 0.02890828804,
+        "rush_hour_delay_time": 0.0478624547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771402.30917767,
+            8442769.12841002
+          ],
+          [
+            2771377.9262408,
+            8442786.28515573
+          ],
+          [
+            2771327.78310231,
+            8442821.68713555
+          ],
+          [
+            2771301.33152542,
+            8442839.87462899
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 18,
+        "id": 114280,
+        "direction": 3,
+        "distance": 61.4096984293,
+        "speed_limit_time": 0.07369163812,
+        "day_avg_delay_time": 0.11302080478,
+        "midday_delay_time": 0.10139997145,
+        "rush_hour_delay_time": 0.12035413811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771300.53748183,
+            8442840.42059573
+          ],
+          [
+            2771299.3942506,
+            8442841.33831592
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 17,
+        "id": 114282,
+        "direction": 3,
+        "distance": 0.73009165952,
+        "speed_limit_time": 0.00087610999,
+        "day_avg_delay_time": 0.04020527666,
+        "midday_delay_time": 0.02858444332,
+        "rush_hour_delay_time": 0.04753860999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771299.3942506,
+            8442841.33831592
+          ],
+          [
+            2771297.82818041,
+            8442842.59546714
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 16,
+        "id": 114283,
+        "direction": 3,
+        "distance": 1.00012546966,
+        "speed_limit_time": 0.00120015056,
+        "day_avg_delay_time": 0.04052931723,
+        "midday_delay_time": 0.0289084839,
+        "rush_hour_delay_time": 0.04786265056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771297.67157338,
+            8442842.72118225
+          ],
+          [
+            2771269.85816673,
+            8442865.04822324
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 15,
+        "id": 114285,
+        "direction": 3,
+        "distance": 17.762210914,
+        "speed_limit_time": 0.0213146531,
+        "day_avg_delay_time": 0.09997298643,
+        "midday_delay_time": 0.07673131976,
+        "rush_hour_delay_time": 0.1146396531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771269.85816673,
+            8442865.04822324
+          ],
+          [
+            2771262.05986982,
+            8442871.30829954
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 14,
+        "id": 114286,
+        "direction": 3,
+        "distance": 4.98015530287,
+        "speed_limit_time": 0.00597618636,
+        "day_avg_delay_time": 0.0846345197,
+        "midday_delay_time": 0.06139285303,
+        "rush_hour_delay_time": 0.09930118636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771262.05986982,
+            8442871.30829954
+          ],
+          [
+            2771260.49394676,
+            8442872.56534359
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 13,
+        "id": 114287,
+        "direction": 3,
+        "distance": 1.00003087573,
+        "speed_limit_time": 0.00120003705,
+        "day_avg_delay_time": 0.04052920372,
+        "midday_delay_time": 0.02890837038,
+        "rush_hour_delay_time": 0.04786253705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2771260.49394676,
+            8442872.56534359
+          ],
+          [
+            2771196.85483296,
+            8442923.65179676
+          ],
+          [
+            2771125.49370101,
+            8442981.31726812
+          ],
+          [
+            2771031.73890837,
+            8443062.44764582
+          ],
+          [
+            2770979.85849998,
+            8443109.4960999
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 12,
+        "id": 114288,
+        "direction": 3,
+        "distance": 182.946922602,
+        "speed_limit_time": 0.21953630712,
+        "day_avg_delay_time": 0.25886547379,
+        "midday_delay_time": 0.24724464045,
+        "rush_hour_delay_time": 0.26619880712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770979.85849998,
+            8443109.4960999
+          ],
+          [
+            2770978.3706764,
+            8443110.84535743
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 11,
+        "id": 114289,
+        "direction": 3,
+        "distance": 1.00012787236,
+        "speed_limit_time": 0.00120015345,
+        "day_avg_delay_time": 0.04052932011,
+        "midday_delay_time": 0.02890848678,
+        "rush_hour_delay_time": 0.04786265345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770978.3706764,
+            8443110.84535743
+          ],
+          [
+            2770945.50465343,
+            8443140.65051874
+          ],
+          [
+            2770885.74809881,
+            8443198.53454729
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 10,
+        "id": 114290,
+        "direction": 3,
+        "distance": 63.5167367168,
+        "speed_limit_time": 0.07622008406,
+        "day_avg_delay_time": 0.11554925073,
+        "midday_delay_time": 0.10392841739,
+        "rush_hour_delay_time": 0.12288258406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770885.74809881,
+            8443198.53454729
+          ],
+          [
+            2770884.30540073,
+            8443199.93204273
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 9,
+        "id": 114291,
+        "direction": 3,
+        "distance": 1.0000929948,
+        "speed_limit_time": 0.00120011159,
+        "day_avg_delay_time": 0.04052927826,
+        "midday_delay_time": 0.02890844493,
+        "rush_hour_delay_time": 0.04786261159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2770884.30540073,
+            8443199.93204273
+          ],
+          [
+            2770871.94147816,
+            8443211.90858974
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 8,
+        "id": 114292,
+        "direction": 3,
+        "distance": 8.57079295868,
+        "speed_limit_time": 0.01028495155,
+        "day_avg_delay_time": 0.04961411822,
+        "midday_delay_time": 0.03799328488,
+        "rush_hour_delay_time": 0.05694745155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773854.19857539,
+            8438997.26940204
+          ],
+          [
+            2773850.21302258,
+            8438996.25585354
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 61,
+        "id": 148212,
+        "direction": 3,
+        "distance": 2.05022850621,
+        "speed_limit_time": 0.00246027421,
+        "day_avg_delay_time": 0.04146860754,
+        "midday_delay_time": 0.03476027421,
+        "rush_hour_delay_time": 0.04676444087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773850.21302258,
+            8438996.25585354
+          ],
+          [
+            2773623.26981243,
+            8438938.543149
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 60,
+        "id": 148213,
+        "direction": 3,
+        "distance": 116.743448699,
+        "speed_limit_time": 0.14009213844,
+        "day_avg_delay_time": 0.17910047177,
+        "midday_delay_time": 0.17239213844,
+        "rush_hour_delay_time": 0.18439630511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773623.26981243,
+            8438938.543149
+          ],
+          [
+            2773620.97568936,
+            8438937.95974523
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 59,
+        "id": 148214,
+        "direction": 3,
+        "distance": 1.18014033636,
+        "speed_limit_time": 0.0014161684,
+        "day_avg_delay_time": 0.04042450174,
+        "midday_delay_time": 0.0337161684,
+        "rush_hour_delay_time": 0.04572033507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774862.34251701,
+            8437962.09841952
+          ],
+          [
+            2774639.18916924,
+            8437969.49192978
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 94,
+        "id": 151941,
+        "direction": 2,
+        "distance": 111.340056345,
+        "speed_limit_time": 0.13360806761,
+        "day_avg_delay_time": 0.17261640095,
+        "midday_delay_time": 0.16590806761,
+        "rush_hour_delay_time": 0.17791223428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774639.18916924,
+            8437969.49192978
+          ],
+          [
+            2774637.18491787,
+            8437969.55833458
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 93,
+        "id": 151942,
+        "direction": 2,
+        "distance": 0.99999999947,
+        "speed_limit_time": 0.0012,
+        "day_avg_delay_time": 0.04020833333,
+        "midday_delay_time": 0.0335,
+        "rush_hour_delay_time": 0.04550416667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774637.18491787,
+            8437969.55833458
+          ],
+          [
+            2774621.1509069,
+            8437970.08957328
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 92,
+        "id": 151943,
+        "direction": 2,
+        "distance": 7.9999996725,
+        "speed_limit_time": 0.00959999961,
+        "day_avg_delay_time": 0.04860833294,
+        "midday_delay_time": 0.04189999961,
+        "rush_hour_delay_time": 0.05390416627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774621.1509069,
+            8437970.08957328
+          ],
+          [
+            2774619.14665553,
+            8437970.15597813
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 91,
+        "id": 151944,
+        "direction": 2,
+        "distance": 0.99999991858,
+        "speed_limit_time": 0.0011999999,
+        "day_avg_delay_time": 0.04020833324,
+        "midday_delay_time": 0.0334999999,
+        "rush_hour_delay_time": 0.04550416657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774619.14665553,
+            8437970.15597813
+          ],
+          [
+            2774618.88610284,
+            8437970.16461072
+          ],
+          [
+            2774605.24463123,
+            8437971.29012648
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 90,
+        "id": 151945,
+        "direction": 2,
+        "distance": 6.95558422329,
+        "speed_limit_time": 0.00834670107,
+        "day_avg_delay_time": 0.0473550344,
+        "midday_delay_time": 0.04064670107,
+        "rush_hour_delay_time": 0.05265086773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774605.24463123,
+            8437971.29012648
+          ],
+          [
+            2774602.92341853,
+            8437971.7536625
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 89,
+        "id": 151946,
+        "direction": 2,
+        "distance": 1.1802900521,
+        "speed_limit_time": 0.00141634806,
+        "day_avg_delay_time": 0.0404246814,
+        "midday_delay_time": 0.03371634806,
+        "rush_hour_delay_time": 0.04572051473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774602.92341853,
+            8437971.7536625
+          ],
+          [
+            2774600.95628912,
+            8437972.14648964
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 88,
+        "id": 151947,
+        "direction": 2,
+        "distance": 1.00024575079,
+        "speed_limit_time": 0.0012002949,
+        "day_avg_delay_time": 0.04020862823,
+        "midday_delay_time": 0.0335002949,
+        "rush_hour_delay_time": 0.04550446157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774600.95628912,
+            8437972.14648964
+          ],
+          [
+            2774597.6527991,
+            8437972.80618226
+          ],
+          [
+            2774588.52403126,
+            8437974.62915758
+          ],
+          [
+            2774571.40706654,
+            8437979.28037825
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 86,
+        "id": 151948,
+        "direction": 2,
+        "distance": 30.3314163846,
+        "speed_limit_time": 0.03639769966,
+        "day_avg_delay_time": 0.11441436632,
+        "midday_delay_time": 0.10099769966,
+        "rush_hour_delay_time": 0.125006033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774571.40706654,
+            8437979.28037825
+          ],
+          [
+            2774569.47075833,
+            8437979.80653463
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 85,
+        "id": 151949,
+        "direction": 2,
+        "distance": 1.00046983481,
+        "speed_limit_time": 0.0012005638,
+        "day_avg_delay_time": 0.04020889714,
+        "midday_delay_time": 0.0335005638,
+        "rush_hour_delay_time": 0.04550473047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774569.47075833,
+            8437979.80653463
+          ],
+          [
+            2774556.1651916,
+            8437981.41977608
+          ],
+          [
+            2774539.33262334,
+            8437983.44570764
+          ],
+          [
+            2774519.88746133,
+            8437985.80929523
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 84,
+        "id": 151950,
+        "direction": 4,
+        "distance": 24.9054350744,
+        "speed_limit_time": 0.02988652209,
+        "day_avg_delay_time": 0.06889485542,
+        "midday_delay_time": 0.06218652209,
+        "rush_hour_delay_time": 0.07419068876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774519.88746133,
+            8437985.80929523
+          ],
+          [
+            2774284.13819871,
+            8438014.9227535
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 83,
+        "id": 151951,
+        "direction": 4,
+        "distance": 118.449890876,
+        "speed_limit_time": 0.14213986905,
+        "day_avg_delay_time": 0.18114820238,
+        "midday_delay_time": 0.17443986905,
+        "rush_hour_delay_time": 0.18644403572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774284.13819871,
+            8438014.9227535
+          ],
+          [
+            2774161.14101752,
+            8438032.51844332
+          ],
+          [
+            2774131.54406269,
+            8438033.64396862
+          ],
+          [
+            2774130.46170244,
+            8438033.68148616
+          ],
+          [
+            2774129.7798656,
+            8438033.7005249
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 82,
+        "id": 151952,
+        "direction": 4,
+        "distance": 77.6062326972,
+        "speed_limit_time": 0.09312747924,
+        "day_avg_delay_time": 0.13213581257,
+        "midday_delay_time": 0.12542747924,
+        "rush_hour_delay_time": 0.1374316459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774129.7798656,
+            8438033.7005249
+          ],
+          [
+            2774127.77446315,
+            8438033.75652115
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 81,
+        "id": 151953,
+        "direction": 4,
+        "distance": 1.00040716843,
+        "speed_limit_time": 0.0012004886,
+        "day_avg_delay_time": 0.04020882194,
+        "midday_delay_time": 0.0335004886,
+        "rush_hour_delay_time": 0.04550465527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774115.36464287,
+            8438034.24424888
+          ],
+          [
+            2774124.67667342,
+            8438033.86907373
+          ],
+          [
+            2774127.77446315,
+            8438033.75652115
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 80,
+        "id": 151954,
+        "direction": 2,
+        "distance": 6.19308051122,
+        "speed_limit_time": 0.00743169661,
+        "day_avg_delay_time": 0.04644002995,
+        "midday_delay_time": 0.03973169661,
+        "rush_hour_delay_time": 0.05173586328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774113.37409526,
+            8438033.97489236
+          ],
+          [
+            2774115.30492643,
+            8438034.23616816
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 79,
+        "id": 151956,
+        "direction": 2,
+        "distance": 0.97157888719,
+        "speed_limit_time": 0.00116589466,
+        "day_avg_delay_time": 0.040174228,
+        "midday_delay_time": 0.03346589466,
+        "rush_hour_delay_time": 0.04547006133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774103.34671163,
+            8438032.70603086
+          ],
+          [
+            2774105.69804601,
+            8438033.00617092
+          ],
+          [
+            2774111.48307503,
+            8438033.71900365
+          ],
+          [
+            2774113.37409526,
+            8438033.97489236
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 78,
+        "id": 151957,
+        "direction": 2,
+        "distance": 5.04007225094,
+        "speed_limit_time": 0.0060480867,
+        "day_avg_delay_time": 0.04505642003,
+        "midday_delay_time": 0.0383480867,
+        "rush_hour_delay_time": 0.05035225337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2774913.95990483,
+            8437949.71777116
+          ],
+          [
+            2774862.34251701,
+            8437962.09841952
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 95,
+        "id": 152263,
+        "direction": 3,
+        "distance": 26.4675808142,
+        "speed_limit_time": 0.03176109698,
+        "day_avg_delay_time": 0.07076943031,
+        "midday_delay_time": 0.06406109698,
+        "rush_hour_delay_time": 0.07606526364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773383.4838283,
+            8439332.9902548
+          ],
+          [
+            2773380.6846207,
+            8439345.22313598
+          ],
+          [
+            2773359.48528862,
+            8439437.94603533
+          ],
+          [
+            2773346.0677536,
+            8439491.60652345
+          ],
+          [
+            2773337.01698241,
+            8439515.54748296
+          ],
+          [
+            2773325.52156994,
+            8439539.00069289
+          ],
+          [
+            2773321.49071102,
+            8439549.13250275
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 49,
+        "id": 153175,
+        "direction": 2,
+        "distance": 112.302199213,
+        "speed_limit_time": 0.13476263906,
+        "day_avg_delay_time": 0.21277930572,
+        "midday_delay_time": 0.19936263906,
+        "rush_hour_delay_time": 0.22337097239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773321.49071102,
+            8439549.13250275
+          ],
+          [
+            2773318.95276282,
+            8439555.54932283
+          ],
+          [
+            2773310.83506082,
+            8439570.48439954
+          ],
+          [
+            2773296.31650416,
+            8439617.6914495
+          ],
+          [
+            2773289.87832671,
+            8439651.83982244
+          ],
+          [
+            2773286.59392316,
+            8439686.43866536
+          ],
+          [
+            2773286.59392316,
+            8439716.94732464
+          ],
+          [
+            2773289.13187136,
+            8439751.77163168
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 48,
+        "id": 153176,
+        "direction": 2,
+        "distance": 103.643932624,
+        "speed_limit_time": 0.12437271915,
+        "day_avg_delay_time": 0.20238938582,
+        "midday_delay_time": 0.18897271915,
+        "rush_hour_delay_time": 0.21298105248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773289.13187136,
+            8439751.77163168
+          ],
+          [
+            2773292.28564524,
+            8439781.07971618
+          ],
+          [
+            2773294.59965684,
+            8439823.25954609
+          ],
+          [
+            2773294.26375194,
+            8439851.17942428
+          ],
+          [
+            2773293.98383118,
+            8439874.59617802
+          ],
+          [
+            2773293.94650841,
+            8439876.96037369
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 47,
+        "id": 153177,
+        "direction": 2,
+        "distance": 62.4261323408,
+        "speed_limit_time": 0.07491135881,
+        "day_avg_delay_time": 0.15292802548,
+        "midday_delay_time": 0.13951135881,
+        "rush_hour_delay_time": 0.16351969214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773293.94650841,
+            8439876.96037369
+          ],
+          [
+            2773292.75217984,
+            8439976.25727678
+          ],
+          [
+            2773292.58422739,
+            8440029.58394501
+          ],
+          [
+            2773292.19233832,
+            8440142.01779376
+          ],
+          [
+            2773290.25155439,
+            8440177.21939898
+          ],
+          [
+            2773287.80691311,
+            8440183.74935277
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 46,
+        "id": 153178,
+        "direction": 2,
+        "distance": 152.939926851,
+        "speed_limit_time": 0.18352791222,
+        "day_avg_delay_time": 0.26154457889,
+        "midday_delay_time": 0.24812791222,
+        "rush_hour_delay_time": 0.27213624555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773287.80691311,
+            8440183.74935277
+          ],
+          [
+            2773281.49936535,
+            8440200.56213415
+          ],
+          [
+            2773270.52647163,
+            8440222.2536812
+          ],
+          [
+            2773218.59184029,
+            8440296.78602441
+          ],
+          [
+            2773206.14469723,
+            8440314.72493889
+          ],
+          [
+            2773091.05994281,
+            8440480.19284788
+          ],
+          [
+            2773047.50427282,
+            8440552.1006801
+          ],
+          [
+            2773032.85508648,
+            8440574.16856924
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 45,
+        "id": 153179,
+        "direction": 2,
+        "distance": 232.557477639,
+        "speed_limit_time": 0.27906897317,
+        "day_avg_delay_time": 0.3180773065,
+        "midday_delay_time": 0.31136897317,
+        "rush_hour_delay_time": 0.32337313983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773032.85508648,
+            8440574.16856924
+          ],
+          [
+            2773020.46392758,
+            8440604.56832093
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 44,
+        "id": 153180,
+        "direction": 2,
+        "distance": 16.3411281464,
+        "speed_limit_time": 0.01960935378,
+        "day_avg_delay_time": 0.09762602044,
+        "midday_delay_time": 0.08420935378,
+        "rush_hour_delay_time": 0.10821768711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2773020.46392758,
+            8440604.56832093
+          ],
+          [
+            2772998.87270642,
+            8440644.61361784
+          ],
+          [
+            2772973.28794912,
+            8440695.65573698
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 43,
+        "id": 153181,
+        "direction": 2,
+        "distance": 51.0727770793,
+        "speed_limit_time": 0.0612873325,
+        "day_avg_delay_time": 0.13930399916,
+        "midday_delay_time": 0.1258873325,
+        "rush_hour_delay_time": 0.14989566583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772973.28794912,
+            8440695.65573698
+          ],
+          [
+            2772926.37323003,
+            8440789.258897
+          ],
+          [
+            2772908.77554503,
+            8440824.35100637
+          ],
+          [
+            2772820.99239523,
+            8440999.5138046
+          ],
+          [
+            2772798.07621582,
+            8441041.81322471
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 42,
+        "id": 153182,
+        "direction": 2,
+        "distance": 193.148413283,
+        "speed_limit_time": 0.38629682657,
+        "day_avg_delay_time": 0.46431349323,
+        "midday_delay_time": 0.45089682657,
+        "rush_hour_delay_time": 0.4749051599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772798.07621582,
+            8441041.81322471
+          ],
+          [
+            2772796.50865957,
+            8441068.53667499
+          ],
+          [
+            2772796.52651955,
+            8441069.3179602
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 41,
+        "id": 153183,
+        "direction": 2,
+        "distance": 13.7101823273,
+        "speed_limit_time": 0.02742036465,
+        "day_avg_delay_time": 0.10543703132,
+        "midday_delay_time": 0.09202036465,
+        "rush_hour_delay_time": 0.11602869799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2772796.53751031,
+            8441069.79875115
+          ],
+          [
+            2772796.58330511,
+            8441071.80204708
+          ]
+        ]
+      },
+      "properties": {
+        "seq": 40,
+        "id": 153185,
+        "direction": 2,
+        "distance": 0.99715676437,
+        "speed_limit_time": 0.00119658812,
+        "day_avg_delay_time": 0.04020492145,
+        "midday_delay_time": 0.03349658812,
+        "rush_hour_delay_time": 0.04550075478
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  }
+}

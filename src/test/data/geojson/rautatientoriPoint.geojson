@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3047"
+    }
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          385875.0,
+          6672380.0
+        ],
+        "type": "Point"
+      },
+      "id": "5",
+      "properties": {
+        "YKR_ID": 5973738
+      },
+      "type": "Feature"
+    }
+  ]
+}
