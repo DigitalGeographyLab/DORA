@@ -19,25 +19,27 @@ from src.main.transportMode.PrivateCarTransportMode import PrivateCarTransportMo
 
 
 def printHelp():
-    # print(
-    #     "DigiroadPreDataAnalysis tool\n"
-    #     "\n\t[--help]: Print information about the parameters necessary to run the tool."
-    #     "\n\t[-s, --start_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
-    #     "\n\t[-e, --end_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
-    #     "\n\t[-o, --outputFolder]: The final destination where the output geojson and summary files will be located."
-    #     "\n\t[-c, --costAttributes]: The impedance/cost attribute to calculate the shortest path."
-    #     "\n\t[-t, --transportMode]: The transport mode used to calculate the shortest path."
-    #     "\n\t[--routes]: Only calculate the shortest path."
-    #     "\n\t[--summary]: Only the cost summary should be calculated."
-    #     "\n\t[--is_entry_list]: The start and end points entries are folders containing a list of geojson files."
-    #     "\n\t[--all]: Calculate the shortest path to all the impedance/cost attributes."
-    #     "\n\nImpedance/cost values allowed:"
-    #     "\n\tDISTANCE"
-    #     "\n\tSPEED_LIMIT_TIME"
-    #     "\n\tDAY_AVG_DELAY_TIME"
-    #     "\n\tMIDDAY_DELAY_TIME"
-    #     "\n\tRUSH_HOUR_DELAY"
-    # )
+    print(
+        "DigiroadPreDataAnalysis tool\n"
+        "\n\t[--help]: Print information about the parameters necessary to run the tool."
+        "\n\t[-s, --start_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
+        "\n\t[-e, --end_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
+        "\n\t[-o, --outputFolder]: The final destination where the output geojson and summary files will be located."
+        "\n\t[-c, --costAttributes]: The impedance/cost attribute to calculate the shortest path."
+        "\n\t[-t, --transportMode]: The transport mode used to calculate the shortest path [PRIVATE_CAR, BICYCLE]."
+        "\n\t[--routes]: Only calculate the shortest path."
+        "\n\t[--summary]: Only the cost summary should be calculated."
+        "\n\t[--is_entry_list]: The start and end points entries are folders containing a set of geojson files."
+        "\n\t[--all]: Calculate the shortest path to all the impedance/cost attributes."
+        "\n\nImpedance/cost values allowed:"
+        "\n\tDISTANCE"
+        "\n\tSPEED_LIMIT_TIME"
+        "\n\tDAY_AVG_DELAY_TIME (PRIVATE_CAR only)"
+        "\n\tMIDDAY_DELAY_TIME (PRIVATE_CAR only)"
+        "\n\tRUSH_HOUR_DELAY (PRIVATE_CAR only)"
+        "\n\tBICYCLE_FAST_TIME (BICYCLE only)"
+        "\n\tBICYCLE_SLOW_TIME (BICYCLE only)"
+    )
     pass
 
 

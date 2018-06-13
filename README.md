@@ -51,9 +51,7 @@ startPointsFolder: Folder containing a set of geojson files with the origin/star
 endPointsFolder: Folder containing a set of geojson files with the destination/target Point geometries.
  
 ```{r, engine='sh', count_lines}
-    $ ../DORA$ /opt/anaconda3/bin/./python -m digiroad -s <../startPoints.geojson> -e <../endPoints.geojson> -o <../outputFolder/> -c <IMPEDANCE/COST ATTRIBUTE>
     $ ../DORA$ python -m src.main -s <../startPointsFolder> -e src\test\data\geojson\Subsets\subset1\subset1_1 -o digiroad\test\data\outputFolder -t BICYCLE -c BICYCLE_FAST_TIME --summary --is_entry_list
-    $ python -m digiroad -s ./src/test/data/geojson/sampleYKRGridPoints-13000.geojson -e ./src/test/data/geojson/sampleYKRGridPoints-5.geojson -o ./src/test/data/outputFolder/ -t BICYCLE --all --cost_only
 ```
 
 Input testPoints.geojson is in the format:
@@ -100,9 +98,12 @@ Input testPoints.geojson is in the format:
 Impedance/Cost attribute values accepted:
 * DISTANCE
 * SPEED_LIMIT_TIME
-* DAY_AVG_DELAY_TIME
-* MIDDAY_DELAY_TIME
-* RUSH_HOUR_DELAY
+* DAY_AVG_DELAY_TIME (PRIVATE_CAR only)
+* MIDDAY_DELAY_TIME (PRIVATE_CAR only)
+* RUSH_HOUR_DELAY (PRIVATE_CAR only)
+* BICYCLE_FAST_TIME (BICYCLE only)
+* BICYCLE_SLOW_TIME (BICYCLE only)
+
 
 ## Additonal Layers 
 
