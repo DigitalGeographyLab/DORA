@@ -59,7 +59,7 @@ startPointsFolder: Folder containing a set of geojson files with the origin/star
 endPointsFolder: Folder containing a set of geojson files with the destination/target Point geometries.
  
 ```{r, engine='sh', count_lines}
-    user@/dgl/codes/DORA$$ python -m src.main -s <../startPointsFolder> -e src\test\data\geojson\Subsets\subset1\subset1_1 -o digiroad\test\data\outputFolder -t BICYCLE -c BICYCLE_FAST_TIME --summary --is_entry_list
+    user@/dgl/codes/DORA$$ python -m src.main -s <../startPointsFolder> -e <../endPointsFolder> -o <../outputFolder> -t BICYCLE -c BICYCLE_FAST_TIME --summary --is_entry_list
 ```
 
 ```-s```: Path to the Geojson file containing the set of __origin__ points (or the directory containing a set of Geojsons).
