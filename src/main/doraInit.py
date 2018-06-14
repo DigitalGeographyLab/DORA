@@ -10,7 +10,7 @@ import psutil
 from src.main.carRoutingExceptions import ImpedanceAttributeNotDefinedException, NotParameterGivenException, \
     TransportModeNotDefinedException
 from src.main.connection.PostgisServiceProvider import PostgisServiceProvider
-from src.main.logic.MetropAccessDigiroad import MetropAccessDigiroadApplication
+from src.main.logic.DORARouterAnalyst import DORARouterAnalyst
 from src.main.util import CostAttributes, getConfigurationProperties, TransportModes, Logger, getFormattedDatetime, \
     GeneralLogger, timeDifference
 
@@ -25,8 +25,8 @@ def printHelp():
         "\n\t[-s, --start_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
         "\n\t[-e, --end_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
         "\n\t[-o, --outputFolder]: The final destination where the output geojson and summary files will be located."
-        "\n\t[-c, --costAttributes]: The impedance/cost attribute to calculate the shortest path."
         "\n\t[-t, --transportMode]: The transport mode used to calculate the shortest path [PRIVATE_CAR, BICYCLE]."
+        "\n\t[-c, --costAttributes]: The impedance/cost attribute to calculate the shortest path."
         "\n\t[--routes]: Only calculate the shortest path."
         "\n\t[--summary]: Only the cost summary should be calculated."
         "\n\t[--is_entry_list]: The start and end points entries are folders containing a set of geojson files."
@@ -168,7 +168,7 @@ def main():
         transportMode = PrivateCarTransportMode(postgisServiceProvider)
         impedances = car_impedances
 
-    starter = MetropAccessDigiroadApplication(
+    starter = DORARouterAnalyst(
         transportMode=transportMode
     )
 

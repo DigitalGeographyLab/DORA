@@ -7,13 +7,13 @@ from joblib import Parallel, delayed
 from src.main.carRoutingExceptions import NotURLDefinedException, \
     TransportModeNotDefinedException
 from src.main.connection.PostgisServiceProvider import PostgisServiceProvider
-from src.main.logic.MetropAccessDigiroad import MetropAccessDigiroadApplication
+from src.main.logic.DORARouterAnalyst import DORARouterAnalyst
 from src.main.util import CostAttributes, getEnglishMeaning, FileActions, Logger
 
 from src.main.transportMode.BicycleTransportMode import BicycleTransportMode
 
 
-class MetropAccessDigiroadTest(unittest.TestCase):
+class DORARouterAnalystBicycle_PostGISServiceTest(unittest.TestCase):
     def setUp(self):
         # self.wfsServiceProvider = WFSServiceProvider(wfs_url="http://localhost:9000/geoserver/wfs?",
         #                                              nearestVertexTypeName="tutorial:dgl_nearest_vertex",
@@ -22,12 +22,12 @@ class MetropAccessDigiroadTest(unittest.TestCase):
         #                                              outputFormat="application/json")
         self.postgisServiceProvider = PostgisServiceProvider()
         self.transportMode = BicycleTransportMode(self.postgisServiceProvider)
-        self.metroAccessDigiroad = MetropAccessDigiroadApplication(self.transportMode)
+        self.doraRouterAnalyst = DORARouterAnalyst(self.transportMode)
         self.fileActions = FileActions()
         self.dir = os.getcwd()
 
     def test_givenNoneWFSService_Then_ThrowError(self):
-        metroAccessDigiroad = MetropAccessDigiroadApplication(None)
+        metroAccessDigiroad = DORARouterAnalyst(None)
         self.assertRaises(TransportModeNotDefinedException, metroAccessDigiroad.calculateTotalTimeTravel, "", "", "", "")
 
     def test_givenEmtpyURL_Then_ThrowError(self):
@@ -36,7 +36,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
         testPolygonsURL = None
 
         self.assertRaises(NotURLDefinedException,
-                          self.metroAccessDigiroad.calculateTotalTimeTravel,
+                          self.doraRouterAnalyst.calculateTotalTimeTravel,
                           inputCoordinatesURL,
                           inputCoordinatesURL,
                           outputFolderFeaturesURL,
@@ -60,10 +60,10 @@ class MetropAccessDigiroadTest(unittest.TestCase):
 
         Logger.configureLogger(outputFolderFeaturesURL, prefix)
 
-        self.metroAccessDigiroad.calculateTotalTimeTravel(startCoordinatesGeojsonFilename=inputCoordinatesURL,
-                                                          endCoordinatesGeojsonFilename=input2CoordinatesURL,
-                                                          outputFolderPath=outputFolderFeaturesURL,
-                                                          costAttribute=distanceCostAttribute)
+        self.doraRouterAnalyst.calculateTotalTimeTravel(startCoordinatesGeojsonFilename=inputCoordinatesURL,
+                                                        endCoordinatesGeojsonFilename=input2CoordinatesURL,
+                                                        outputFolderPath=outputFolderFeaturesURL,
+                                                        costAttribute=distanceCostAttribute)
 
         inputCoordinatesGeojson = self.fileActions.readJson(inputCoordinatesURL)
         expectedResult = self.fileActions.readJson(expectedResultPath)
@@ -116,10 +116,10 @@ class MetropAccessDigiroadTest(unittest.TestCase):
         prefix = CostAttributes.BICYCLE_FAST_TIME + "_log."
 
         Logger.configureLogger(outputFolderFeaturesURL, prefix)
-        self.metroAccessDigiroad.calculateTotalTimeTravel(startCoordinatesGeojsonFilename=inputStartCoordinatesURL,
-                                                          endCoordinatesGeojsonFilename=inputEndCoordinatesURL,
-                                                          outputFolderPath=outputFolderFeaturesURL,
-                                                          costAttribute=distanceCostAttribute)
+        self.doraRouterAnalyst.calculateTotalTimeTravel(startCoordinatesGeojsonFilename=inputStartCoordinatesURL,
+                                                        endCoordinatesGeojsonFilename=inputEndCoordinatesURL,
+                                                        outputFolderPath=outputFolderFeaturesURL,
+                                                        costAttribute=distanceCostAttribute)
 
         inputCoordinatesGeojson = self.fileActions.readJson(inputStartCoordinatesURL)
         for key in distanceCostAttribute:
@@ -144,8 +144,8 @@ class MetropAccessDigiroadTest(unittest.TestCase):
         outputFolderFeaturesURL = self.dir + '%src%test%data%outputFolder%'.replace("%", os.sep)
 
         expectedResult = self.fileActions.readJson(expectedJsonURL)
-        self.metroAccessDigiroad.createDetailedSummary(outputFolderFeaturesURL,
-                                                       CostAttributes.BICYCLE_FAST_TIME,
+        self.doraRouterAnalyst.createDetailedSummary(outputFolderFeaturesURL,
+                                                     CostAttributes.BICYCLE_FAST_TIME,
                                                        "metroAccessDigiroadSummary.geojson")
 
         summaryOutputFolderFeaturesURL = outputFolderFeaturesURL + os.sep + "summary" + os.sep
@@ -162,7 +162,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
         )
         shortestPath = self.fileActions.readJson(shortestPathFile)
 
-        startPointId, endPointId, totalDistance, totalTravelTime = self.metroAccessDigiroad.calculateSmallSummary(
+        startPointId, endPointId, totalDistance, totalTravelTime = self.doraRouterAnalyst.calculateSmallSummary(
             shortestPath=shortestPath,
             costAttribute=CostAttributes.BICYCLE_FAST_TIME
         )
@@ -182,7 +182,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
 
         expectedResult = self.fileActions.readJson(expectedJsonURL)
 
-        self.metroAccessDigiroad.createGeneralSummary(
+        self.doraRouterAnalyst.createGeneralSummary(
             startCoordinatesGeojsonFilename=startInputCoordinatesURL,
             endCoordinatesGeojsonFilename=endInputCoordinatesURL,
             costAttribute=CostAttributes.BICYCLE_FAST_TIME,
@@ -208,7 +208,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
 
         expectedResult = self.fileActions.readJson(expectedJsonURL)
 
-        self.metroAccessDigiroad.createGeneralSummary(
+        self.doraRouterAnalyst.createGeneralSummary(
             startCoordinatesGeojsonFilename=startInputCoordinatesURL,
             endCoordinatesGeojsonFilename=endInputCoordinatesURL,
             costAttribute=CostAttributes.BICYCLE_FAST_TIME,
@@ -234,7 +234,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
 
         expectedResult = self.fileActions.readJson(expectedJsonURL)
 
-        self.metroAccessDigiroad.createGeneralSummary(
+        self.doraRouterAnalyst.createGeneralSummary(
             startCoordinatesGeojsonFilename=startInputCoordinatesURL,
             endCoordinatesGeojsonFilename=endInputCoordinatesURL,
             costAttribute=CostAttributes.BICYCLE_FAST_TIME,
@@ -267,7 +267,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
 
         expectedResult = self.fileActions.readJson(expectedJsonURL)
 
-        self.metroAccessDigiroad.createGeneralSummary(
+        self.doraRouterAnalyst.createGeneralSummary(
             startCoordinatesGeojsonFilename=startInputCoordinatesURL,
             endCoordinatesGeojsonFilename=endInputCoordinatesURL,
             costAttribute=CostAttributes.BICYCLE_FAST_TIME,
@@ -302,7 +302,7 @@ class MetropAccessDigiroadTest(unittest.TestCase):
         # expectedResult = self.fileActions.readJson(expectedJsonURL)
 
         outputFileName = "bikeMissingValues"
-        self.metroAccessDigiroad.createGeneralSummary(
+        self.doraRouterAnalyst.createGeneralSummary(
             startCoordinatesGeojsonFilename=startInputCoordinatesURL,
             endCoordinatesGeojsonFilename=endInputCoordinatesURL,
             costAttribute=CostAttributes.DISTANCE,

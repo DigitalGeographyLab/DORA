@@ -2,7 +2,7 @@ from joblib import Parallel, delayed
 from src.main.connection.PostgisServiceProvider import executePostgisQueryReturningDataFrame
 from src.main.util import getConfigurationProperties, FileActions, dgl_timer, parallel_job_print, Logger
 
-from src.main.transportMode import AbstractTransportMode
+from src.main.transportMode.AbstractTransportMode import AbstractTransportMode
 
 
 class BicycleTransportMode(AbstractTransportMode):

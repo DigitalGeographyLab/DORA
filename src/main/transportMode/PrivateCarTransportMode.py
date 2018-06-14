@@ -3,7 +3,7 @@ from src.main.connection.PostgisServiceProvider import executePostgisQueryReturn
 from src.main.util import getConfigurationProperties, FileActions, dgl_timer, \
     parallel_job_print, Logger
 
-from src.main.transportMode import AbstractTransportMode
+from src.main.transportMode.AbstractTransportMode import AbstractTransportMode
 
 
 class PrivateCarTransportMode(AbstractTransportMode):

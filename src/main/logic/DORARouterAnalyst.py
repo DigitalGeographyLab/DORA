@@ -227,7 +227,7 @@ def createCostSummaryWithAdditionalProperties(self, costAttribute, startPointFea
     return summaryFeature
 
 
-class MetropAccessDigiroadApplication:
+class DORARouterAnalyst:
     def __init__(self, transportMode=None):
         self.fileActions = FileActions()
         self.operations = Operations(FileActions())
