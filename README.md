@@ -63,15 +63,23 @@ endPointsFolder: Folder containing a set of geojson files with the destination/t
 ```
 
 ```-s```: Path to the Geojson file containing the set of __origin__ points (or the directory containing a set of Geojsons).
-```-e```: Path to the Geojson file containing the set of __target__ points (or the directory containing a set of Geojsons).
-```-o```: Path where store the output data.
-```-t```: Flag to chose the transporte mode to take into account in the data analysis [PRIVATE_CAR, BICYCLE].
-```-c```: The impedance/cost attribute to calculate the shortest path.
-```--route```: Store in the output folder the geojson files with the fastest route LineString features.
-```--summary```: Store in the output folder the csv files containing the fastest travel time summary per each pair of entry points.
-```--is_entry_list```: Define if the ```-s``` and ```-e``` are folders paths and not file paths.  
 
-Impedance/Cost ```-c``` attribute values accepted:
+```-e```: Path to the Geojson file containing the set of __target__ points (or the directory containing a set of Geojsons).
+
+```-o```: Path where store the output data.
+
+```-t```: Flag to choose the transport mode for the data analysis [PRIVATE_CAR, BICYCLE].
+
+```-c```: The impedance/cost attribute to calculate the shortest path.
+
+```--route```: Store in the output folder the geojson files with the fastest route LineString features.
+
+```--summary```: Store in the output folder the csv files containing the fastest travel time summary per each pair of entry points.
+
+```--is_entry_list```: Define if the ```-s``` and ```-e``` are folders paths and not file paths.
+
+
+Impedance/Cost ```-c``` attribute accepted values:
 * DISTANCE
 * SPEED_LIMIT_TIME
 * DAY_AVG_DELAY_TIME (PRIVATE_CAR only)
