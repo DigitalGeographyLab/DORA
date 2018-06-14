@@ -80,11 +80,11 @@ endPointsFolder: Folder containing a set of geojson files with the destination/t
 
 
 Impedance/Cost ```-c``` attribute accepted values:
-* DISTANCE
-* SPEED_LIMIT_TIME
-* DAY_AVG_DELAY_TIME (PRIVATE_CAR only)
-* MIDDAY_DELAY_TIME (PRIVATE_CAR only)
+* DISTANCE (Both PRIVATE_CAR and BICYCLE)
 * RUSH_HOUR_DELAY (PRIVATE_CAR only)
+* MIDDAY_DELAY_TIME (PRIVATE_CAR only)
+* DAY_AVG_DELAY_TIME (PRIVATE_CAR only)
+* SPEED_LIMIT_TIME (PRIVATE_CAR only)
 * BICYCLE_FAST_TIME (BICYCLE only)
 * BICYCLE_SLOW_TIME (BICYCLE only)
 
@@ -137,7 +137,7 @@ See: [Additional Layers Operations][additional-layers]
 
 ## Modifying or extending transport modes
 
-The tool uses a hierarchical structure to support different travel modes. By default, the supported travel modes are Private Car and Bicycle. To extend the functionality it is needed either to modify the existing transport modes specificiations or adding a new specification of the abstraction [AbstractTransportMode] and call it from [doraInit.py].
+The tool uses a hierarchical structure to support different travel modes. By default, the supported travel modes are Private Car and Bicycle. To extend the functionality it is needed either to modify the existing transport modes specifications or by adding a new specification of the abstraction [AbstractTransportMode] and call it from [doraInit.py].
 
 
 
