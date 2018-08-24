@@ -1,6 +1,12 @@
 # Door-to-door Routing Analyst - DORA
 
-DORA is a data analysis tool for measuring accessibility, able to read any road network setup in a database with pgRouting (v2.3.2) extension. It is based in the door-to-door approach to retrieve more realistic travel times either for private car or bicycle transport modes.   
+Door-to-door Routing Analyst or DORA for short is an open source multi modal routing tool, developed in 2018. It uses the door-to-door approach when retrieving travel times where the whole travel chain is taken into account. It can be used to route car, cycling and walking routes and is able to read any road network setup in a database with pgRouting (v2.3.2) extension.
+
+For privatecar travel times DORA makes use of travel times that are based on Digiroad data set speed limits that have been modified more realistic in the Helsinki region. Times of the road segments are made more realistic by adding crossroad impedances for different road classes. Impedances are based on floating car measurements conducted in the Capital Region of Helsinki (data from the Helsinki City Planning Department and Helsinki Regional Transport Authority HRT).
+
+For cycling travel times DORA is using road network data from Helsinki that has been modified to be suitable for bicycle routing. The road network has been MetropAccess-CyclingNetwork, which is based on the Digiroad data (Digiroad K), developed by the Finnish Transport Agency, but where the speeds along the road segments have been modified more realistic. To make the speeds more realistic, we have used Strava-Metro sports application data from the Helsinki region from 2016 as well as the bike sharing data from Helsinki from 2017. The routing tool has not used segments where cycling is prohibited.
+
+DORA is implemented with the open source database software PostgreSQL and its spatial extension PostGIS and it's making use of the routing library pgRouting (tool: pgr_dijkstraCost). This makes DORA completely open source tool being also available openly.   
 
 ## Installation
 
