@@ -29,14 +29,14 @@ carRountingDictionary = {
 }
 
 CostAttributes = enum(DISTANCE='pituus',
-                      SPEED_LIMIT_TIME='digiroa_aa',
+                      SPEED_LIMIT_TIME='freeflow',
                       DAY_AVG_DELAY_TIME='kokopva_aa',
                       MIDDAY_DELAY_TIME='keskpva_aa',
                       RUSH_HOUR_DELAY='ruuhka_aa',
                       BICYCLE_FAST_TIME='fast_time',
                       BICYCLE_SLOW_TIME='slow_time')
 
-TransportModes = enum(PRIVATE_CAR='PRIVATE_CAR', BICYCLE='BICYCLE')
+TransportModes = enum(OSM_PRIVATE_CAR='OSM_PRIVATE_CAR', PRIVATE_CAR='PRIVATE_CAR', BICYCLE='BICYCLE')
 
 GeometryType = enum(POINT="Point", MULTI_POINT='MultiPoint', LINE_STRING='LineString')
 
@@ -44,7 +44,6 @@ PostfixAttribute = enum(EUCLIDEAN_DISTANCE="EuclideanDistance", AVG_WALKING_DIST
                         WALKING_TIME="WalkingTime", PARKING_TIME="ParkingTime")
 
 GPD_CRS = enum(WGS_84={'init': 'EPSG:4326'}, PSEUDO_MERCATOR={'init': 'EPSG:3857'})
-
 
 def getEnglishMeaning(cost_attribute=None):
     if cost_attribute in carRountingDictionary:

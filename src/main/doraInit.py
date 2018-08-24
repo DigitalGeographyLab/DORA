@@ -11,6 +11,7 @@ from src.main.carRoutingExceptions import ImpedanceAttributeNotDefinedException,
     TransportModeNotDefinedException
 from src.main.connection.PostgisServiceProvider import PostgisServiceProvider
 from src.main.logic.DORARouterAnalyst import DORARouterAnalyst
+from src.main.transportMode.OSMPrivateCarTransportMode import OSMPrivateCarTransportMode
 from src.main.util import CostAttributes, getConfigurationProperties, TransportModes, Logger, getFormattedDatetime, \
     GeneralLogger, timeDifference
 
@@ -25,7 +26,7 @@ def printHelp():
         "\n\t[-s, --start_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
         "\n\t[-e, --end_point]: Geojson file containing all the pair of points to calculate the shortest path between them."
         "\n\t[-o, --outputFolder]: The final destination where the output geojson and summary files will be located."
-        "\n\t[-t, --transportMode]: The transport mode used to calculate the shortest path [PRIVATE_CAR, BICYCLE]."
+        "\n\t[-t, --transportMode]: The transport mode used to calculate the shortest path [OSM_PRIVATE_CAR, PRIVATE_CAR, BICYCLE]."
         "\n\t[-c, --costAttributes]: The impedance/cost attribute to calculate the shortest path."
         "\n\t[--routes]: Only calculate the shortest path."
         "\n\t[--summary]: Only the cost summary should be calculated."
@@ -166,6 +167,8 @@ def main():
         impedances = bicycle_impedances
     elif transportModeSelected == TransportModes.PRIVATE_CAR:
         transportMode = PrivateCarTransportMode(postgisServiceProvider)
+    elif transportModeSelected == TransportModes.OSM_PRIVATE_CAR:
+        transportMode = OSMPrivateCarTransportMode(postgisServiceProvider)
         impedances = car_impedances
 
     starter = DORARouterAnalyst(

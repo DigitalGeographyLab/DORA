@@ -6,7 +6,7 @@ from src.main.util import getConfigurationProperties, FileActions, dgl_timer, \
 from src.main.transportMode.AbstractTransportMode import AbstractTransportMode
 
 
-class PrivateCarTransportMode(AbstractTransportMode):
+class OSMPrivateCarTransportMode(AbstractTransportMode):
     def __init__(self, geojsonServiceProvider, epsgCode="EPSG:3857"):
         self.epsgCode = epsgCode
         self.fileActions = FileActions()
@@ -110,7 +110,6 @@ class PrivateCarTransportMode(AbstractTransportMode):
                "table_name AS e " \
                "WHERE " \
                "(e.source = v.id OR e.target = v.id) " \
-               "AND e.TOIMINN_LK <> 8 " \
                "AND ST_DWithin(ST_Transform(v.the_geom, 4326)," \
                "ST_Transform(ST_SetSRID(ST_MakePoint(%s, %s), %s), 4326)::geography," \
                "%s)" \
@@ -174,17 +173,15 @@ class PrivateCarTransportMode(AbstractTransportMode):
               "sum(e.ruuhka_aa) AS rush_hour_delay_time," \
               "ST_SnapToGrid(e.the_geom, 0.00000001) AS geom " \
               "FROM " \
-              "pgr_dijkstra('SELECT " \
-              "id::integer," \
-              "source::integer," \
-              "target::integer," \
+              "pgr_dijkstra('SELECT id::integer, source::integer, target::integer, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 4)  " \
+              "WHEN (oneway = 1 OR oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS cost, " \
-              "(CASE " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 3) THEN %s " \
+              "(CASE  " \
+              "WHEN (oneway = 0)  " \
+              "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS reverse_cost " \
               "FROM table_name', %s, %s, true, true) AS r, " \
@@ -220,12 +217,12 @@ class PrivateCarTransportMode(AbstractTransportMode):
               "FROM pgr_dijkstraCost(" \
               "\'SELECT id::integer, source::integer, target::integer, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 4)  " \
+              "WHEN (oneway = 1 OR oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS cost, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 3)  " \
+              "WHEN (oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS reverse_cost " \
@@ -264,12 +261,12 @@ class PrivateCarTransportMode(AbstractTransportMode):
               "FROM pgr_dijkstraCost(" \
               "\'SELECT id::integer, source::integer, target::integer, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 4)  " \
+              "WHEN (oneway = 1 OR oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS cost, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 3)  " \
+              "WHEN (oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS reverse_cost " \
@@ -310,12 +307,12 @@ class PrivateCarTransportMode(AbstractTransportMode):
               "FROM pgr_dijkstraCost(" \
               "\'SELECT id::integer, source::integer, target::integer, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 4)  " \
+              "WHEN (oneway = 1 OR oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS cost, " \
               "(CASE  " \
-              "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 3)  " \
+              "WHEN (oneway = 0)  " \
               "THEN %s " \
               "ELSE -1 " \
               "END)::double precision AS reverse_cost " \
@@ -437,12 +434,12 @@ class PrivateCarTransportMode(AbstractTransportMode):
                       "FROM pgr_dijkstraCost(" \
                       "\'SELECT id::integer, source::integer, target::integer, " \
                       "(CASE  " \
-                      "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 4)  " \
+                      "WHEN (oneway = 1 OR oneway = 0)  " \
                       "THEN %s " \
                       "ELSE -1 " \
                       "END)::double precision AS cost, " \
                       "(CASE  " \
-                      "WHEN TOIMINN_LK <> 8 AND (AJOSUUNTA = 2 OR AJOSUUNTA = 3)  " \
+                      "WHEN (oneway = 0)  " \
                       "THEN %s " \
                       "ELSE -1 " \
                       "END)::double precision AS reverse_cost " \
